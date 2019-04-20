@@ -5,17 +5,11 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
-                <div class="card-header">Welcome to the Top10 Near Me Website</div>
-
-                <div class="card-body">
-                    @if (session('status'))
-                        <div class="alert alert-success" role="alert">
-                            {{ session('status') }}
-                        </div>
-                    @endif
-
-                    You are successfully logged in!
-                </div>
+                <h1 align="center">Select City:</h1>
+                <a class="btn btn-lg btn-primary btn-block" href="{{ URL::to('cities/nicosia' ) }}">Nicosia</a>
+                <a class="btn btn-lg btn-primary btn-block" href="{{ URL::to('cities/limassol' ) }}">Limassol</a>
+                <a class="btn btn-lg btn-primary btn-block" href="{{ URL::to('cities/paphos' ) }}">Paphos</a>
+                <a class="btn btn-lg btn-primary btn-block" href="{{ URL::to('cities/larnaca' ) }}">Larnaca</a>
             </div>
         </div>
     </div>
