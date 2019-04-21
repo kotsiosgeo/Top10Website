@@ -33,7 +33,6 @@
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
               <a class="dropdown-item" href="{{ url('/home') }}">Home</a>
               <a class="dropdown-item" href="{{ url('/profile') }}">User Profile</a>
-              <a class="dropdown-item" href="{{ url('/cities/limassol') }}">Back</a>
               <div class="dropdown-divider"></div>
               <a class="dropdown-item" href="{{ url('/logout') }}"
                   onclick="event.preventDefault();

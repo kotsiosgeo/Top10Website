@@ -10,7 +10,7 @@
                 <a class="btn btn-lg btn-primary btn-block" href="{{ URL::to('activities/larnacarestaurants' ) }}">Restaurants</a>
                 <a class="btn btn-lg btn-primary btn-block" href="{{ URL::to('activities/larnacaclubs' ) }}">Clubs & Bars</a>
                 <a class="btn btn-lg btn-primary btn-block" href="{{ URL::to('activities/larnacamuseums' ) }}">Museums</a>
-                <a class="btn btn-lg btn-primary btn-block" href="{{ URL::to('activities/larnacasightseeing' ) }}">Sightseeing</a>
+                <a class="btn btn-lg btn-primary btn-block" href="{{ URL::to('activities/larnacasightseeing' ) }}">Sightseeings</a>
             </div>
         </div>
     </div>

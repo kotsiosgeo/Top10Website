@@ -10,7 +10,7 @@
                 <a class="btn btn-lg btn-primary btn-block" href="{{ URL::to('activities/paphosrestaurants' ) }}">Restaurants</a>
                 <a class="btn btn-lg btn-primary btn-block" href="{{ URL::to('activities/paphosclubs' ) }}">Clubs & Bars</a>
                 <a class="btn btn-lg btn-primary btn-block" href="{{ URL::to('activities/paphosmuseums' ) }}">Museums</a>
-                <a class="btn btn-lg btn-primary btn-block" href="{{ URL::to('activities/paphossightseeing' ) }}">Sightseeing</a>
+                <a class="btn btn-lg btn-primary btn-block" href="{{ URL::to('activities/paphossightseeing' ) }}">Sightseeings</a>
             </div>
         </div>
     </div>

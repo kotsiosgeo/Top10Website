@@ -10,7 +10,7 @@
                 <a class="btn btn-lg btn-primary btn-block" href="{{ URL::to('activities/nicosiarestaurants' ) }}">Restaurants</a>
                 <a class="btn btn-lg btn-primary btn-block" href="{{ URL::to('activities/nicosiaclubs' ) }}">Clubs & Bars</a>
                 <a class="btn btn-lg btn-primary btn-block" href="{{ URL::to('activities/nicosiamuseums' ) }}">Museums</a>
-                <a class="btn btn-lg btn-primary btn-block" href="{{ URL::to('activities/nicosiasightseeing' ) }}">Sightseeing</a>
+                <a class="btn btn-lg btn-primary btn-block" href="{{ URL::to('activities/nicosiasightseeing' ) }}">Sightseeings</a>
             </div>
         </div>
     </div>

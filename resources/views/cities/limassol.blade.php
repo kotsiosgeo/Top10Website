@@ -10,7 +10,7 @@
                 <a class="btn btn-lg btn-primary btn-block" href="{{ URL::to('activities/limassolrestaurants' ) }}">Restaurants</a>
                 <a class="btn btn-lg btn-primary btn-block" href="{{ URL::to('activities/limassolclubs' ) }}">Clubs & Bars</a>
                 <a class="btn btn-lg btn-primary btn-block" href="{{ URL::to('activities/limassolmuseums' ) }}">Museums</a>
-                <a class="btn btn-lg btn-primary btn-block" href="{{ URL::to('activities/limassolsightseeing' ) }}">Sightseeing</a>
+                <a class="btn btn-lg btn-primary btn-block" href="{{ URL::to('activities/limassolsightseeing' ) }}">Sightseeings</a>
             </div>
         </div>
     </div>
