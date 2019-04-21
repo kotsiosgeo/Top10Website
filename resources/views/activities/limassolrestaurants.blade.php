@@ -64,86 +64,148 @@
       <div class="row">
         <div class="col-md-8">
           <div class="post">
-            <h3>1st Restaurant</h3>
-            <p>Details about the first restaurant</p>
-            <a href="#" class="btn btn-primary">View</a>
+            <h2> #1 </h2>
+            <hr>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/artima.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Artima Restaurant</h2></a>
+            <p>Artima Bistro, three times awarded for its Mediterranean cuisine, is a most suitable choice for an elegant dining experience and ideal for a business lunch or dinner. The carefully restored and tastefully designed restaurant radiates unique character in a contemporary and elegant environment. The rich menu and professional staff are sure to leave guests with a favourable and flavourful impression. Located at the Lanitis Carobmill Complex next to the Medieval Castle in Limassol ,Artima offers Mediterranean dishes inspired by the Italian cuisine. The creative menu is enhanced with tempting desserts and a wide selection of local and international wines. Visitors can enjoy their food or drinks sitting by the yard of the Medieval Castle.</p>
+            <h6>Prices Range: ££££</h6>
           </div>
 
           <hr class="my-4">
 
           <div class="post">
-            <h3>2nd Restaurant</h3>
-            <p>Details about the second restaurant</p>
-            <a href="#" class="btn btn-primary">View</a>
+            <h2> #2 </h2>
+            <hr>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/artima.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Artima Restaurant</h2></a>
+            <p>Artima Bistro, three times awarded for its Mediterranean cuisine, is a most suitable choice for an elegant dining experience and ideal for a business lunch or dinner. The carefully restored and tastefully designed restaurant radiates unique character in a contemporary and elegant environment. The rich menu and professional staff are sure to leave guests with a favourable and flavourful impression. Located at the Lanitis Carobmill Complex next to the Medieval Castle in Limassol ,Artima offers Mediterranean dishes inspired by the Italian cuisine. The creative menu is enhanced with tempting desserts and a wide selection of local and international wines. Visitors can enjoy their food or drinks sitting by the yard of the Medieval Castle.</p>
+            <h6>Prices Range: ££££</h6>
           </div>
 
           <hr class="my-4">
 
           <div class="post">
-            <h3>3rd Restaurant</h3>
-            <p>Details about the third restaurant</p>
-            <a href="#" class="btn btn-primary">View</a>
+            <h2> #3 </h2>
+            <hr>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/artima.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Artima Restaurant</h2></a>
+            <p>Artima Bistro, three times awarded for its Mediterranean cuisine, is a most suitable choice for an elegant dining experience and ideal for a business lunch or dinner. The carefully restored and tastefully designed restaurant radiates unique character in a contemporary and elegant environment. The rich menu and professional staff are sure to leave guests with a favourable and flavourful impression. Located at the Lanitis Carobmill Complex next to the Medieval Castle in Limassol ,Artima offers Mediterranean dishes inspired by the Italian cuisine. The creative menu is enhanced with tempting desserts and a wide selection of local and international wines. Visitors can enjoy their food or drinks sitting by the yard of the Medieval Castle.</p>
+            <h6>Prices Range: ££££</h6>
           </div>
 
           <hr class="my-4">
 
           <div class="post">
-            <h3>4th Restaurant</h3>
-            <p>Details about the fourth restaurant</p>
-            <a href="#" class="btn btn-primary">View</a>
+            <h2> #4 </h2>
+            <hr>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/artima.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Artima Restaurant</h2></a>
+            <p>Artima Bistro, three times awarded for its Mediterranean cuisine, is a most suitable choice for an elegant dining experience and ideal for a business lunch or dinner. The carefully restored and tastefully designed restaurant radiates unique character in a contemporary and elegant environment. The rich menu and professional staff are sure to leave guests with a favourable and flavourful impression. Located at the Lanitis Carobmill Complex next to the Medieval Castle in Limassol ,Artima offers Mediterranean dishes inspired by the Italian cuisine. The creative menu is enhanced with tempting desserts and a wide selection of local and international wines. Visitors can enjoy their food or drinks sitting by the yard of the Medieval Castle.</p>
+            <h6>Prices Range: ££££</h6>
           </div>
 
           <hr class="my-4">
 
           <div class="post">
-            <h3>5th Restaurant</h3>
-            <p>Details about the fifth restaurant</p>
-            <a href="#" class="btn btn-primary">View</a>
+            <h2> #5 </h2>
+            <hr>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/artima.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Artima Restaurant</h2></a>
+            <p>Artima Bistro, three times awarded for its Mediterranean cuisine, is a most suitable choice for an elegant dining experience and ideal for a business lunch or dinner. The carefully restored and tastefully designed restaurant radiates unique character in a contemporary and elegant environment. The rich menu and professional staff are sure to leave guests with a favourable and flavourful impression. Located at the Lanitis Carobmill Complex next to the Medieval Castle in Limassol ,Artima offers Mediterranean dishes inspired by the Italian cuisine. The creative menu is enhanced with tempting desserts and a wide selection of local and international wines. Visitors can enjoy their food or drinks sitting by the yard of the Medieval Castle.</p>
+            <h6>Prices Range: ££££</h6>
           </div>
 
           <hr class="my-4">
 
           <div class="post">
-            <h3>6th Restaurant</h3>
-            <p>Details about the sixth restaurant</p>
-            <a href="#" class="btn btn-primary">View</a>
+            <h2> #6 </h2>
+            <hr>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/artima.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Artima Restaurant</h2></a>
+            <p>Artima Bistro, three times awarded for its Mediterranean cuisine, is a most suitable choice for an elegant dining experience and ideal for a business lunch or dinner. The carefully restored and tastefully designed restaurant radiates unique character in a contemporary and elegant environment. The rich menu and professional staff are sure to leave guests with a favourable and flavourful impression. Located at the Lanitis Carobmill Complex next to the Medieval Castle in Limassol ,Artima offers Mediterranean dishes inspired by the Italian cuisine. The creative menu is enhanced with tempting desserts and a wide selection of local and international wines. Visitors can enjoy their food or drinks sitting by the yard of the Medieval Castle.</p>
+            <h6>Prices Range: ££££</h6>
           </div>
 
           <hr class="my-4">
 
           <div class="post">
-            <h3>7th Restaurant</h3>
-            <p>Details about the seventh restaurant</p>
-            <a href="#" class="btn btn-primary">View</a>
+            <h2> #7 </h2>
+            <hr>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/artima.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Artima Restaurant</h2></a>
+            <p>Artima Bistro, three times awarded for its Mediterranean cuisine, is a most suitable choice for an elegant dining experience and ideal for a business lunch or dinner. The carefully restored and tastefully designed restaurant radiates unique character in a contemporary and elegant environment. The rich menu and professional staff are sure to leave guests with a favourable and flavourful impression. Located at the Lanitis Carobmill Complex next to the Medieval Castle in Limassol ,Artima offers Mediterranean dishes inspired by the Italian cuisine. The creative menu is enhanced with tempting desserts and a wide selection of local and international wines. Visitors can enjoy their food or drinks sitting by the yard of the Medieval Castle.</p>
+            <h6>Prices Range: ££££</h6>
           </div>
 
           <hr class="my-4">
 
           <div class="post">
-            <h3>8th Restaurant</h3>
-            <p>Details about the eigthth restaurant</p>
-            <a href="#" class="btn btn-primary">View</a>
+            <h2> #8 </h2>
+            <hr>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/artima.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Artima Restaurant</h2></a>
+            <p>Artima Bistro, three times awarded for its Mediterranean cuisine, is a most suitable choice for an elegant dining experience and ideal for a business lunch or dinner. The carefully restored and tastefully designed restaurant radiates unique character in a contemporary and elegant environment. The rich menu and professional staff are sure to leave guests with a favourable and flavourful impression. Located at the Lanitis Carobmill Complex next to the Medieval Castle in Limassol ,Artima offers Mediterranean dishes inspired by the Italian cuisine. The creative menu is enhanced with tempting desserts and a wide selection of local and international wines. Visitors can enjoy their food or drinks sitting by the yard of the Medieval Castle.</p>
+            <h6>Prices Range: ££££</h6>
           </div>
 
           <hr class="my-4">
 
           <div class="post">
-            <h3>9th Restaurant</h3>
-            <p>Details about the ninth restaurant</p>
-            <a href="#" class="btn btn-primary">View</a>
+            <h2> #9 </h2>
+            <hr>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/artima.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Artima Restaurant</h2></a>
+            <p>Artima Bistro, three times awarded for its Mediterranean cuisine, is a most suitable choice for an elegant dining experience and ideal for a business lunch or dinner. The carefully restored and tastefully designed restaurant radiates unique character in a contemporary and elegant environment. The rich menu and professional staff are sure to leave guests with a favourable and flavourful impression. Located at the Lanitis Carobmill Complex next to the Medieval Castle in Limassol ,Artima offers Mediterranean dishes inspired by the Italian cuisine. The creative menu is enhanced with tempting desserts and a wide selection of local and international wines. Visitors can enjoy their food or drinks sitting by the yard of the Medieval Castle.</p>
+            <h6>Prices Range: ££££</h6>
           </div>
 
           <hr class="my-4">
 
           <div class="post">
-            <h3>10th Restaurant</h3>
-            <p>Details about the tenth restaurant</p>
-            <a href="#" class="btn btn-primary">View</a>
+            <h2> #10 </h2>
+            <hr>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/artima.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Artima Restaurant</h2></a>
+            <p>Artima Bistro, three times awarded for its Mediterranean cuisine, is a most suitable choice for an elegant dining experience and ideal for a business lunch or dinner. The carefully restored and tastefully designed restaurant radiates unique character in a contemporary and elegant environment. The rich menu and professional staff are sure to leave guests with a favourable and flavourful impression. Located at the Lanitis Carobmill Complex next to the Medieval Castle in Limassol ,Artima offers Mediterranean dishes inspired by the Italian cuisine. The creative menu is enhanced with tempting desserts and a wide selection of local and international wines. Visitors can enjoy their food or drinks sitting by the yard of the Medieval Castle.</p>
+            <h6>Prices Range: ££££</h6>
           </div>
 
           <hr class="my-4">
 
         </div>
+
+        <div class="card">
+          <article class="card-group-item">
+		          <header class="card-header">
+			             <h6 class="title">Age Range: </h6>
+		               </header>
+		                 <div class="filter-content">
+                			<div class="card-body">
+                				<div class="custom-control custom-checkbox">
+                				  	<input type="checkbox" class="custom-control-input" id="Check1">
+                				  	<label class="custom-control-label" for="Check1">12 - 17</label>
+                				</div>
+
+                        <div class="custom-control custom-checkbox">
+                				  	<input type="checkbox" class="custom-control-input" id="Check2">
+                				  	<label class="custom-control-label" for="Check2">18 - 25</label>
+                				</div>
+
+                        <div class="custom-control custom-checkbox">
+                				  	<input type="checkbox" class="custom-control-input" id="Check3">
+                				  	<label class="custom-control-label" for="Check3">25 - 40</label>
+                				</div>
+
+                        <div class="custom-control custom-checkbox">
+                				  	<input type="checkbox" class="custom-control-input" id="Check4">
+                				  	<label class="custom-control-label" for="Check4">40 +</label>
+                				</div>
+
+			                 </div>
+		                  </div>
+	       </article>
+      </div>
 
       </div>
     </div>
