@@ -21,6 +21,8 @@ Route::get('/home', 'HomeController@index')->name('home');
 
 Route::get('profile', 'UserController@profile');
 
+Route::get('suggest', 'UserController@show_suggest');
+
 Route::post('profile', 'UserController@update_avatar');
 
 Route::get('/cities/nicosia', 'CityController@show_nicosia');
