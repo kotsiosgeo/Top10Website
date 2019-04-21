@@ -47,7 +47,7 @@
 
                 <div class="collapse navbar-collapse" id="app-navbar-collapse">
                     <!-- Left Side Of Navbar -->
-                  
+
 
                     <!-- Right Side Of Navbar -->
                     <ul class="nav navbar-nav navbar-right">
@@ -65,6 +65,7 @@
 
                                 <ul class="dropdown-menu" role="menu">
                                     <li>
+                                      <a href="{{ url('/home') }}">Home</a>
                                       <a href="{{ url('/profile') }}">User Profile</a>
                                         <a href="{{ url('/logout') }}"
                                             onclick="event.preventDefault();
