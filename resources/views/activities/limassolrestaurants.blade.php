@@ -89,7 +89,7 @@
             <h2> #3 </h2>
             <hr>
             <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/lamaisonfleurie.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>La Maison Fleurie:</h2></a>
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>La Maison Fleurie</h2></a>
             <p>La Maison Fleurie is established since 1986 and created by great passion for French authentic cuisine. The interior design is based on a rich classic style with very romantic surroundings. During summer time, the restaurant offers you a tremendous garden for relaxing evenings. Ideal for wedding, private parties, baptizing and other private events & anniversaries! The restaurant is awarded in 2017 & 2016 with a Certificate of Excellence for the great reviews earned by guests. </p>
             <h6>Prices Range: ££££</h6>
           </div>
@@ -166,7 +166,7 @@
             <h2> #10 </h2>
             <hr>
             <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/ousia.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Ousia</h2></a>
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Ousia Lounge Cafe</h2></a>
             <p>Ousia Lounge Cafe, a stylish Cafe Restaurant that is set in an historic building, with a contemporary finish. Ousia delivers a complete culinary experience of traditional Mediterranean cuisine, with a modern twist. It prides its success with using ingredients & products that are of quality, fresh, natural, seasonal, and handcrafted. The philosphy behind Ousia's creativity is embracing the traditions of Cyprus, whilst also acknowledging the influences from cultures that have graced its shores. Each dish and drink is carefully prepared and presented in an environment that offers total satisfaction.</p>
             <h6>Prices Range: ££ - £££</h6>
           </div>
