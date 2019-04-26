@@ -66,10 +66,10 @@
           <div class="post">
             <h2> #1 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/artima.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Artima Restaurant</h2></a>
-            <p>Artima Bistro, three times awarded for its Mediterranean cuisine, is a most suitable choice for an elegant dining experience and ideal for a business lunch or dinner. The carefully restored and tastefully designed restaurant radiates unique character in a contemporary and elegant environment. The rich menu and professional staff are sure to leave guests with a favourable and flavourful impression. Located at the Lanitis Carobmill Complex next to the Medieval Castle in Limassol ,Artima offers Mediterranean dishes inspired by the Italian cuisine. The creative menu is enhanced with tempting desserts and a wide selection of local and international wines. Visitors can enjoy their food or drinks sitting by the yard of the Medieval Castle.</p>
-            <h6>Prices Range: ££££</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/londos.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h3>Londos Perasma Café Restaurant</h3></a>
+            <p>Londos perasma situated on B6 at Timi village, just five minutes from Paphos airport. A traditional cypriot family run taverna, with a small outside childrens play area. A very reasonably priced menu consisting of both traditional and non-traditional food, which can be also be made to takeaway. All food is freshly prepared, and any special dietary requests can be catered for with some prior notice. Roast beef Sunday lunches are also served, but prior booking is advised as it is very popular, and tables tend to fill very quickly all day.</p>
+            <h6>Prices Range: ££ - £££</h6>
           </div>
 
           <hr class="my-4">
@@ -77,10 +77,10 @@
           <div class="post">
             <h2> #2 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/columbiasteakhouse.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Columbia Steak House</h2></a>
-            <p>The Plaza's chic Steak House is a feast for both the stomach and the eyes. Specializing in fresh, prime cuts of superior quality U.S.D.A Black Angus Premium beef, flown in chilled from overseas every week. The restaurant's experienced chefs use a unique method of cooking the perfectly aged steaks. This not only produces what is now acknowledged as the best steak in town, but is certain to please gourmands island-wide. </p>
-            <h6>Prices Range: ££££</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/namaste.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Namaste Indian Restaurant</h2></a>
+            <p>Authentic Indian Street Food, vegetarian and vegan-friendly. We serve freshly cooked authentic Indian food.</p>
+            <h6>Prices Range: ££ - £££</h6>
           </div>
 
           <hr class="my-4">
@@ -88,10 +88,10 @@
           <div class="post">
             <h2> #3 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/lamaisonfleurie.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>La Maison Fleurie</h2></a>
-            <p>La Maison Fleurie is established since 1986 and created by great passion for French authentic cuisine. The interior design is based on a rich classic style with very romantic surroundings. During summer time, the restaurant offers you a tremendous garden for relaxing evenings. Ideal for wedding, private parties, baptizing and other private events & anniversaries! The restaurant is awarded in 2017 & 2016 with a Certificate of Excellence for the great reviews earned by guests. </p>
-            <h6>Prices Range: ££££</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/caravellerestaurant.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h5>Caravelle Fish & Mediterranean Restaurant</h5></a>
+            <p>Caravelle is open 7 days a week from 10am until late. Serving drinks, snacks, desserts, beverages and exquisite meals with a Mediterranean flare including salads, fish & seafood, pasta, chicken and steak (fillet/rib-eye). We are situated in an area with plenty parking, and the beautiful scenic beach walkway is just beyond the children's playground which is a stone’s throw away. The upstairs bar is perfect for those evening sun-downers too.</p>
+            <h6>Prices Range: ££ - £££</h6>
           </div>
 
           <hr class="my-4">
@@ -99,10 +99,10 @@
           <div class="post">
             <h2> #4 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/alborgo.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Pizzeria Al Borgo</h2></a>
-            <p>Pizzeria Al Borgo is one of the cosiest and cheapest restaurants in Limassol. The Italian kitchen offers pizzas, spaghetti, ravioli and many more at very reasonable prices offering a good experience to its customers.</p>
-            <h6>Prices Range: £</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/notios.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Notios Restaurant</h2></a>
+            <p>Experience the purity of Japanese food combined with sensuous Mediterranean flavours at the al fresco Notios. Our Executive Chef loves experimenting but is equally passionate about simple, honest food. The result: exciting, modern cuisine underpinned with culinary integrity. Notios is open for lunch and dinner from April to November (weather-permitting the rest of the year).</p>
+            <h6>Prices Range: ££££</h6>
           </div>
 
           <hr class="my-4">
@@ -110,10 +110,10 @@
           <div class="post">
             <h2> #5 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/dionysusmansion.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Dionysous Mansion</h2></a>
-            <p>Dionysus Mansion adds the "Gourmet" in the Cypriot / Greek Cuisine. The restaurant offers exceptional local cuisine in reasonable prices. You can taste traditional dishes like souvla, koupepia, kleftiko and many more along with local wine or beer.</p>
-            <h6>Prices Range: ££ - £££</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/bacco.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Ristorante Bacco</h2></a>
+            <p>Ristorante Bacco offers guests a complete dining experience: a delicious meal in a warm and intimate setting. Authentic Italian cuisine – with highlights from Tuscany – is captured in a sumptuous menu that includes homemade pasta dishes, tender meat and fish specialties, and the most popular Italian desserts, all based on original recipes and made from fresh ingredients. Allow us to recommend a matching Italian wine or come to the glass-fronted storage cellar to taste and choose a wine for yourself. Whether you prefer a table indoors or in the sunken courtyard outside, sit back and enjoy the unique gastronomic experience that Bacco offers.</p>
+            <h6>Prices Range: ££££</h6>
           </div>
 
           <hr class="my-4">
@@ -121,9 +121,9 @@
           <div class="post">
             <h2> #6 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/zenroom.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Zen Room</h2></a>
-            <p>Zen Room Restaurant offers an amazing experience of Asian cuisine with Japanese dishes like sushi, peking duck, hot and sour soup and tappenyaki style chicken teriyaki. The restaurant has many dishes, but they specialise in Sushi, making it the best sushi in Limassol.</p>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/oshin.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>O'Shin Restaurant</h2></a>
+            <p>Dignified and yet simplistic, O'Shin's intimate space gives guests the opportunity to explore a selection of refined, pan-Asian gastronomic delights. Fawn-coloured oak wood utilised throughout the eatery lends to its elegant setting, which has been further embellished with oriental-styled latticed partitions, and soft, cherry-hued lighting. Whilst hot dishes – a diverse range of starters and mains – are prepared behind the scenes, the variety of sushi, sashimi, and maki is brought to life at the dedicated sushi counter, establishing an exciting dialogue between diner and chef. In completing their Asian journey, guests can anticipate enjoying a smooth cup of Sake, or savouring the aromas of O'Shin's selection of teas.</p>
             <h6>Prices Range: ££££</h6>
           </div>
 
@@ -132,10 +132,10 @@
           <div class="post">
             <h2> #7 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/seasonsoriental.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Seasons Oriental</h2></a>
-            <p>This famous Chinese restaurant has the undeniable accolade of being the best in its class in Cyprus. Chef Kenny Keung and his team provide an unrivalled selection of Cantonese taste sensations. Open for dinner only every night but Tuesday.</p>
-            <h6>Prices Range: ££££</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/jayanta.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Jayanta Indian Restaurant</h2></a>
+            <p>Jayanta Indian Restaurant is located close to the waterfront in Paphos. The restaurant menu includes Indian, Asian and Balinese dishes to suit any taste. If you like spicy ingredients, there is plenty to choose from. If you prefer a more moderate taste, there are many classic dishes like lamb, chicken curry, salads, freshly baked bread and halal options. The wine list includes local and European wines. The restaurant has a colourful interior décor. Some of the tables are located outside. There are high chairs for children.</p>
+            <h6>Prices Range: ££ - £££</h6>
           </div>
 
           <hr class="my-4">
@@ -143,10 +143,10 @@
           <div class="post">
             <h2> #8 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/tapiatakia.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Ta Piatakia</h2></a>
-            <p>Ta Piatakia Restaurant offers a Mediterranean Cuisine experience with local dishes in very good prices and specialises in Cypriot and Greek traditional dishes, so if you want to experience the flavours of the island this is the place to be!</p>
-            <h6>Prices Range: ££ - £££</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/mediterraneo.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Mediterraneo Restaurant</h2></a>
+            <p>Atmospheric seafront taverna offering local and seasonal specialities inspired by Annabelle’s ‘Food from the Village’ cookbook. Emphasis is placed on unique and homemade produce from the local area and from Cyprus. Fresh flavours and light dishes are designed to be shared with family and friends at the table.</p>
+            <h6>Prices Range: ££££</h6>
           </div>
 
           <hr class="my-4">
@@ -154,10 +154,10 @@
           <div class="post">
             <h2> #9 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/vivaldi.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Vivaldi by Mavrommatis</h2></a>
-            <p>Offers the best in fresh, fine Mediterranean cuisine. In conjunction with the renowned Cypriot Chef Andreas Mavrommatis, based in Paris and building on the success of our 10 year relationship. Mavrommatis' recipe for success has always been based on the simplicity of market fresh Mediterranean ingredients. Open for dinner only, also outdoors during the summer months (May to October). Vivaldi by Mavrommatis Restaurant is voted as the Best Hotel Restaurant in Cyprus by the TimeOut Readers for 8 consecutive years.</p>
-            <h6>Prices Range: ££££</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/windmill.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Windmill Restaurant</h2></a>
+            <p>The Windmill is a family run restaurant owned from Chris Kathitziotes and his family for more than 30 years. The restaurant offers a large selection of Cypriot and International food. It is also specialised in Meze. Available for wedding receptions and other parties with reasonable prices.</p>
+            <h6>Prices Range: ££ - £££</h6>
           </div>
 
           <hr class="my-4">
@@ -165,9 +165,9 @@
           <div class="post">
             <h2> #10 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/ousia.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Ousia Lounge Cafe</h2></a>
-            <p>Ousia Lounge Cafe, a stylish Cafe Restaurant that is set in an historic building, with a contemporary finish. Ousia delivers a complete culinary experience of traditional Mediterranean cuisine, with a modern twist. It prides its success with using ingredients & products that are of quality, fresh, natural, seasonal, and handcrafted. The philosphy behind Ousia's creativity is embracing the traditions of Cyprus, whilst also acknowledging the influences from cultures that have graced its shores. Each dish and drink is carefully prepared and presented in an environment that offers total satisfaction.</p>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/curryhouse.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Curry House</h2></a>
+            <p>Once missing from Paphos, The Curry House is an Authentic Indian Restaurant that offers real, home cooked dishes from India.  All dishes are cooked by authentic Indian chefs and our aim is to prepare dishes exactly how we cook them at home. Every plate achieves contains the freshest ingredients prepared daily and cooked to perfectly to give you that elusive, cuisine-defining balance of sweet, salty and sour, even dessert.</p>
             <h6>Prices Range: ££ - £££</h6>
           </div>
 

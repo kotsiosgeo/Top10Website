@@ -66,9 +66,9 @@
           <div class="post">
             <h2> #1 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/guaba.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Guaba Beach Bar</h2></a>
-            <p>Guaba is our home!No matter what day you visited us, you were sure to enjoy some new and exciting aspect of our Guaba world. Day times on the beach were the perfect chance to sample our signature cocktails and relax on our chilling loungers, to take a swim in the lovely beach in front of our bar and mellow with your friends. From the cool weekday atmosphere to the hot, crazy, unreal Sunday parties, Guaba made sure, as always, that there was something for everyone, at all times.</p>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/larnaca/ammos.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Ammos Beach Bar</h2></a>
+            <p>Ammos is an upscale beach bar, restaurant and nightspot based on the remarkable Makenzy Beach in Larnaca. Our lounge bar, beach bar, restaurant and party location - both facing the Mediterranean Sea - invite you to a relaxing stay enjoying our variety of cocktails and modern cuisine, which is blending tasteful dishes from all over the world to a unique gourmet experience.</p>
             <h6>Prices Range: ££</h6>
           </div>
 
@@ -77,9 +77,9 @@
           <div class="post">
             <h2> #2 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/7seas.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>7 Seas</h2></a>
-            <p>The 7Seas Bar is an elegant music bar with a nightly entertainment program and it is also the perfect venue for hosting celebrations or gathering with friends to dance the night away, while our staff ensure you a fantastic and memorable night. Sample our impressive array of signature drinks and special cocktails while you listen to our popular resident DJs or live bands and performances by International artists.Enter the 7Seas - a gateway into another world and acquire a taste of music…at its very best.A glamorous venue with state of the art sound and light system. International DJ's from all over the world spin the decks with the top hits of all times. </p>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/larnaca/secretgarden.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h3>Secret Garden Wine & Coffee Bar</h3></a>
+            <p>A small Wine & coffee bar just by the iconic Church of Saint Lazarus. An amazing small bar with a big secret garden in a back, with drinks, food (Platters, Cheeseboards, snacks, Toasties desserts and subs), coffees, cocktails, nice range of local and worldwide wines and Live events. Cool people, good music. Cosy little place.</p>
             <h6>Prices Range: ££</h6>
           </div>
 
@@ -88,9 +88,9 @@
           <div class="post">
             <h2> #3 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/ravens.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Ravens Music Hall</h2></a>
-            <p>Ravens Music Hall is one of the best destinations in Limassol for the fans of Rock music. Every night there is a different live band playing all the kinds of Rock music, both Greek and English. The prices of the drinks are very low so you and your friends can enjoy the night without having to worry about the bill. Make a note for Raven Music Hall’s Fridays, when the band called Lopodites is playing and they rock! </p>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/larnaca/rumtree.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Rum Tree</h2></a>
+            <p>Located very close to the start of the iconic strip, it enjoys an exclusive part of town which it is slowly reviving. Its outdoor patio provides an ideal setting for an evening drink with friends, with its low lighting, wooden interior and now, during the colder months, heating across the room. The bar area has the appearance of an old beach shack – an all-wooden creation with a very minimalist look and with its various rums spread across the shelves. The seating area is made up of simple wooden chairs and tables close together while there is also plenty of space to stand.</p>
             <h6>Prices Range: £</h6>
           </div>
 
@@ -99,9 +99,9 @@
           <div class="post">
             <h2> #4 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/breeze.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Breeze Summer Club</h2></a>
-            <p>One of the best clubs in Cyprus, Breeze Summer Club offers an amazing experience of outdoor clubbing next to the sea. With well-known DJs from Cyprus and around the world, and many famous singers performing there during the summer period Breeze Summer Club is one of the hottest destinations in Limassol for the summer.</p>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/larnaca/clubdeep.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Club Deep</h2></a>
+            <p>Club DEEP is a large club and is also popularly referred to as Larnaca’s Hot Party Spot. The entire club gives off an edgy vibe, and the sound system plays the best RnB, Hip Hop and House Music followed by some of the best DJs in the city for a wild night of entertainment.</p>
             <h6>Prices Range: £££</h6>
           </div>
 
@@ -110,9 +110,9 @@
           <div class="post">
             <h2> #5 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/marinaroofbar.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Marina Roof Bar</h2></a>
-            <p>Exactly what the name suggests, a rooftop bar overlooking the new state of the art Limassol marina in its entirety. Enjoy refreshing cocktails and mixers, with a perfect point of view!</p>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/larnaca/skylight.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Skylight Music Bar</h2></a>
+            <p>SKYLIGHT Music Bar established in 1987 by local landlord Chris where you will find the best cocktails in Pyla with the best atmosphere. SKYLIGHT offers a variety of Karaoke, Latin & Salsa, Motown, and live Greek music throughout the week. Music requests welcomed and you can enjoy a free shot upon your first visit. Selection of desserts and bar food also available.</p>
             <h6>Prices Range: ££</h6>
           </div>
 
@@ -121,9 +121,9 @@
           <div class="post">
             <h2> #6 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/dolce.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Dolce Club</h2></a>
-            <p>Dolce Club is one of the best party places in Limassol with good music and tasty cocktails, friendly stuff and fairly good prices. Dolce hosts many elite events with famous DJs from Cyprus and other countries during the whole year, thanks to its two separate Dolce venues the indoor venue for Winter and Autumn and the outdoor venue for Summer and Spring.</p>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/larnaca/bluemartini.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Blue Martini Summer Club</h2></a>
+            <p>Located in the middle of the Makenzy beach, the Blue Martini Club is the perfect choice for visitors and locals. The club is located a step away from the beach and exudes luxury and creates the perfect environment for an ideal summer life.</p>
             <h6>Prices Range: £££</h6>
           </div>
 
@@ -132,9 +132,9 @@
           <div class="post">
             <h2> #7 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/poe.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Poe Bar</h2></a>
-            <p>Poe Bar is a very cosy place in the heart of Limassol that offers amazing food and excellent drinks and cocktails in very logical prices. The staff is very friendly there is both indoor and outdoor sitting area, the music varies depending on the night but mostly it is Rock, and it is suitable for all ages.</p>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/larnaca/finis.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Fini's Beach Bar</h2></a>
+            <p>Visit with family, an excellent location by the beach where kids can safely play nearby. There is always a nice selection of music for enjoying your cold beer or cocktail on a hot day.</p>
             <h6>Prices Range: £</h6>
           </div>
 
@@ -143,9 +143,9 @@
           <div class="post">
             <h2> #8 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/daltons.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Daltons Bar</h2></a>
-            <p>We are the newest rock and alternative music venue in the heart of the Old Town of Limassol! We have DJ's, Live music and events every week, weekly cocktail and shot promotions, happy hour from 10 until 12 pm and the friendliest staff in town!!! we open from 10 and we party til sunrise.... Come join the fun!</p>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/larnaca/belfry.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>The Belfry Larnaca</h2></a>
+            <p>An all-day venue in the heart of Larnaca with extraordinary, signature cocktails and magnificent view in Saint Lazarous Church.</p>
             <h6>Prices Range: £</h6>
           </div>
 
@@ -154,9 +154,9 @@
           <div class="post">
             <h2> #9 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/rogmes.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Rogmes Live Music</h2></a>
-            <p>Rogmes Live Music is located in the heart of Limassol and it is one of the most famous Greek Live Music Venues on the island. Greek Live Music Venues are also called Bouzoukia, and you can enjoy the music from a sitting area with tables or from the island bars. The Entrance is free, and you only have to pay your drinks!</p>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/larnaca/kokomo.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Kokomo Music Bar</h2></a>
+            <p>Kokomo is a music bar in Larnaca since 1990. We offer trendy music with a warm atmosphere. We have a friendly bar staff who are always happy to help and a DJ who plays songs of your choice. The bar has 12 LCD TVs showing all major Cypriot and European football matches and other sporting events. We have two billiards to play with your friends. We also have an outdoor area for the sunny and hot days. There is a customer car park behind the bar which is free for the customers.</p>
             <h6>Prices Range: £££</h6>
           </div>
 
@@ -165,9 +165,9 @@
           <div class="post">
             <h2> #10 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/hookahplace.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>HookahPlace Limassol</h2></a>
-            <p>Hookah mecca of Cyprus, main hookah place in Limassol. Hookahs and tobaccos from all over the world. Masterclasses and trainings in hookah craftsmanship.</p>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/larnaca/barcode.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Barcode</h2></a>
+            <p>Small friendly cafe/bar located back from Larnaca seafront on a pedestrian walkway with other cafe`s and bars. Open all year round.</p>
             <h6>Prices Range: ££</h6>
           </div>
 

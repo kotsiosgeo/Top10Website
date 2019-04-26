@@ -66,10 +66,10 @@
           <div class="post">
             <h2> #1 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/kourion.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Kourion</h2></a>
-            <p>The archaeological remains of Kourion - which was one of the island’s most important city-kingdoms in antiquity - are of the most impressive on the island, and excavations have unearthed many significant finds, which can be viewed at the site. The city-kingdom was built on the hills of the area and overlooked and controlled the fertile valley of the river Kouris. According to archaeological finds, evidence suggests that Kourion was associated with the Greek legend of Argos of Peloponnese, and that its inhabitants believed they were descendants of Argean immigrants. The once-flourishing kingdom was eventually destroyed in a severe earthquake in 365 AD.</p>
-            <h6>Prices Range: £20</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/larnaca/agioslazaros.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Agios Lazaros</h2></a>
+            <p>Located in its own square in the town centre, the magnificent stone church of Agios Lazaros is one of the most remarkable examples of Byzantine architecture in Cyprus and lies over the tomb of the saint. Built by Byzantine Emperor Leo VI in the 9th century, the church was restored in the 17th century. Although the three domes and original bell tower of the church were destroyed in the first years during Ottoman rule, the gold-covered iconostasis has survived today and is a superb example of baroque woodcarving. Saint Lazarus came to Cyprus after being resurrected by Jesus. He was ordained as Bishop of Kition by the Apostles Barnabas and Paul and lived in the town for 30 years. His tomb can be seen under the sanctuary. The saint is so revered that a procession is held in his honour eight days before Easter. During the procession, the icon of Saint Lazarus is carried through the streets of Larnaka.</p>
+            <h6>Prices Range: £</h6>
           </div>
 
           <hr class="my-4">
@@ -77,10 +77,10 @@
           <div class="post">
             <h2> #2 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/omodos.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Omodos Village</h2></a>
-            <p>The historic village of Omodos is located only 42 kilometers away from the city of Limassol and “is the centre of the wine-villages" of Limassol District.</p>
-            <h6>Prices Range: £17</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/larnaca/mackenzie.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Mackenzie Beach</h2></a>
+            <p>Mackenzie Beach is a little off the centre of the city of Larnaka and in the immediate vicinity of the take-off and landing aircraft of the international airport, which is actually rather inconvenient for beach visitors who are looking for relaxation and peace. Nevertheless, a very popular beach has been created here with hip restaurants and beach bars and a nightlife to be proud of. If you're looking for water sports, you'll also find plenty to do here. The beach of grey-brown sand is especially suitable for beginners of windsurfing.</p>
+            <h6>Prices Range: ££</h6>
           </div>
 
           <hr class="my-4">
@@ -88,10 +88,10 @@
           <div class="post">
             <h2> #3 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/limassolmarina.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Limassol Marina</h2></a>
-            <p>Limassol Marina combines elegant residences and a full-service marina with an enticing mix of restaurants and shops. Located in the heart of a vibrant city, the marina development offers luxury apartments and exclusive villas with their own private berths or direct access to the beach. Its highly desired Cyprus property, an outstanding collection of stylish homes, provide a unique retreat complete with a spa and fitness club, leisure and cultural facilities. Limassol Marina can accommodate 650 yachts from 8m to 110m with a team of experienced professionals to ensure the smooth running of all operations.</p>
-            <h6>Prices Range: £27</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/larnaca/finikoudes.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Finikoudes Beach</h2></a>
+            <p>Finikoudes Beach is considered as one of the most famous beaches in Cyprus. The heart of Larnaca town is just behind the beach, divided from the shore by the coast road, Athenon Avenue. Finikoudes beach was named after the small palm trees planted here back in 1922. Finikoudes beach is a Blue Flag status beach and is kept very clean by Larnaka Municipality, who also provide the summer lifeguard service.</p>
+            <h6>Prices Range: ££</h6>
           </div>
 
           <hr class="my-4">
@@ -99,10 +99,10 @@
           <div class="post">
             <h2> #4 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/fasouri.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h3>Fasouri Watermania Water Park</h3></a>
-            <p>The largest waterpark in Cyprus with 30 different attractions for all ages. Three different restaurants to choose from, Sweet Land Kiosk, Aloha Cocktail Bar, Cinnabon Kiosk, Costa Coffee and Mini Donut Kiosk. 750 free parking space and over 2000 sun beds. Lockers also available at a charge. Additional services such as photo shop, fish spa, massage. A staff of more than 100 people work continuously to provide the best service to our visitors. Winner of many awards!</p>
-            <h6>Prices Range: £27</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/larnaca/larnacasaltlake.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Larnaca Salt Lake</h2></a>
+            <p>Larnaka Salt Lake is the second largest salt-lake in Cyprus and measures 2.2 square kilometres. In 1997 it was declared a protected area under Cypriot Law for the Prote¬ction and Management of Nature and Wildlife and under the European Ha¬bitats Directive. It is a significant Ramsar and Natura 2000 site – one of the most significant biotopes in Europe - and one of the most important habitats in Europe for waterfowl.   Located southwest of Larnaka town and east of the villages of Meneou and Dromolaxia, the Salt Lake – known locally as ‘Alyki’ - is actually one of four lakes in Larnaka. Together, with Lake Orphani, Lake Soros and Airport Lake, the lakes collectively cover a total area of 1761 hectares.</p>
+            <h6>Prices Range: £</h6>
           </div>
 
           <hr class="my-4">
@@ -110,10 +110,10 @@
           <div class="post">
             <h2> #5 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/limassolpromenade.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Limassol Promenade</h2></a>
-            <p>The Promenade in Limassol is hugely popular with holidaymakers for its view of the sea, the sandy beaches, and the palm-coated surroundings, with the backdrop of its long and close proximity sea shore and various water parks, creates a wonderful atmosphere for adults and children of all ages. The busy streets flanking this seaside route have a unique appeal of its own; it’s packed with restaurants, cafes, English style pubs, vibrant nightclubs, and a wide range of shops selling almost everything including souvenirs and traditional sweets and delicacies. Mingling with the warm and friendly locals adds to the experience and enhances the well-being factor. Spending enjoyable hours in the boulevard is a gratifying joy, so take a stroll alongside the beach and allow yourself to delight in the agreeable ambience.</p>
-            <h6>Prices Range: £10</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/larnaca/zenobia.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Zenobia Wreck</h2></a>
+            <p>The best wreck in the world with best instructors, we will keep you safe on a magical mystery tour of this epic wreck that sank on the 7th June 1980 with 104 articulated lorries still fully laden with cargo on board. Contact us now for our summer special of 90 euros for 2 dives with equipment.</p>
+            <h6>Prices Range: £££</h6>
           </div>
 
           <hr class="my-4">
@@ -121,10 +121,10 @@
           <div class="post">
             <h2> #6 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/kaledonia.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h3>Caledonia Waterfalls (Kalidonia)</h3></a>
-            <p>Caledonia Waterfalls is one of the highest waterfalls in Cyprus. It is located on Platres village in Troodos and the water falls from the height of 12 meters. It can be reached via a walking path. Caledonia Waterfall is surrounded by forest in a very beautiful area with breath-taking views. The trail is 3km long and can last up to 2 hours. It can also be divided into two parts, the first one which is the higher one that leads to the waterfalls and the second one which leads from the waterfall to Platres.</p>
-            <h6>Prices Range: £39</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/larnaca/larnacamuseum.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Larnaca Medieval Castle</h2></a>
+            <p>Larnaca Castle is a medieval fort that was built during the Ottoman rule and which is and located at the end of the Foinikoudes promenade. The Castle is home to a museum of the middle ages, which houses a collection of artefacts, including weaponry, pottery and household items found at the Kition archaeological site. The Castle also frequently holds different cultural events.</p>
+            <h6>Prices Range: ££</h6>
           </div>
 
           <hr class="my-4">
@@ -132,10 +132,10 @@
           <div class="post">
             <h2> #7 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/kourionbeach.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Kourion Beach</h2></a>
-            <p>Kourion Beach is outside Limassol in the area called Kourion. The Kourion is an area which had a deep history form the ancient Greek and Roman ages. In addition, the Kourion area is well known for the Kourion Amphitheatre. The beach is very nice however the sea is a bit rough as it is open sea, but it is considered as a lovely beach of a grey sand and small pebbles, with waves soaking the sand which makes it perfect for windsurfers!</p>
-            <h6>Prices Range: £10</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/larnaca/larnacamarina.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Larnaca Marina</h2></a>
+            <p>Larnaca Marina is right in the heart of the town, literally so you can hop off the boat and be right in the middle of things straightaway. Perfect if you have an emergency, need a restaurant, or go to a supermarket. It is in front of Phinikoudes, a palm tree lined promenade with many restaurants, cafes, bars to choose from and it is also only a 15-minute drive to the airport.</p>
+            <h6>Prices Range: £</h6>
           </div>
 
           <hr class="my-4">
@@ -143,10 +143,10 @@
           <div class="post">
             <h2> #8 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/motormuseum.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h4>Cyprus Historic & Classic Motor Museum</h4></a>
-            <p>Located in Limassol in a spacious 3000 square meters, you will admire Classic, Historic and Collectible Cars. The "Cyprus Historic and Classic Motor Museum" is a remarkable home for classic cars with highlights of their historical and emotional value. Visitors can admire the museum's eclectic collection of cars covering the period of the last century. The museum highlights the cultural importance of the development and growth of the automobile industry. The oldest car in the collection at the moment is a Ford "T" roadster from 1912, which currently has 102 years of life on the road. The newest vehicle is a collectible piece from 2004. Each visitor can enjoy a different yet memorable experience learning the progress of the vehicles through the passage of time. The founding of the museum is due to the vision of veteran Rally Racing champion of International and Cypriot rally competitions, Mr. Dimi Mavropoulos.</p>
-            <h6>Prices Range: £10</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/larnaca/farosbeach.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Faros Beach</h2></a>
+            <p>The famous Faros (Lighthouse) Beach of the Larnaka (Larnaca) village of Pervolia is a 500-metre strip of fine sands of varying shades of beige, calm, shallow seawaters and ample trees and greenery. It is located just south of Pervolia at Cape Kiti. Facilities on the beach include toilets, showers, changing rooms, sun beds, umbrellas, dustbins, recycling bins and a children’s playground. Lifeguards with lifesaving equipment and first aid services are stationed at the beach from June - September.</p>
+            <h6>Prices Range: £</h6>
           </div>
 
           <hr class="my-4">
@@ -154,10 +154,10 @@
           <div class="post">
             <h2> #9 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/limassolzoo.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Limassol Zoo</h2></a>
-            <p>After two years of hard work, the revamped Limassol Zoo was inaugurated in 2012. The zoo is one of the biggest in Europe and hosts beautiful and interesting animals, equally attractive to the public. Specially designed natural-looking habitats were created for all types of animals residing at the zoo. All species are well taken care of and are given the required attention and love, as well as proper nutrition. Guests can enjoy their stroll and grab the opportunity to take a close look at the animals in a pleasant environment, since all safety regulations are observed.</p>
-            <h6>Prices Range: £15</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/larnaca/kamares.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Kamares Aqueduct</h2></a>
+            <p>This beautiful 18th century aqueduct can be found on the road heading towards Lemesos in the area of Kamares, which takes its name from the distinctive arches (‘kamares’ in Greek). An open-air sight, the aqueduct was built in the Roman style in 1746 by the Turkish governor of Larnaka, Bekir Pasha, who funded it out of his own sources to carry water to Larnaka from a source about 10km away. The aqueduct was abandoned in 1939 and its function replaced by modern pipes. There are more than 20 arches still intact, and these are strikingly illuminated at night. A cobbled area with benches and a footpath allows you to enjoy the site of this monument, with the path linking up with Larnaka Salt Lake.</p>
+            <h6>Prices Range: £</h6>
           </div>
 
           <hr class="my-4">
@@ -165,10 +165,10 @@
           <div class="post">
             <h2> #10 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/apollosanctuary.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>The Sanctuary of Apollo</h2></a>
-            <p>Apollon Hylates, God of the Woodland, was the protector of Kourion and it is believed that he was worshipped at the site from the 8th century BC to the 4th century AD. His sanctuary was an important religious centre and underwent many extensions and alterations in different periods. Originally, the site consisted of a temple (traces of which survive in the foundations of the present temple), a circular monument, and a formalized Archaic Altar and Precinct. During the Roman period the site was extended with the addition of the south and north buildings, which may have been used for the display of votives or the accommodation of visitors. Terracotta figurines and pottery that were accumulated in the temple from the 5th century BC to the Roman period were buried in the votive pit.</p>
-            <h6>Prices Range: £30</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/larnaca/kition.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Kition Archaeological Site</h2></a>
+            <p>The architectural ruins of the ancient city-kingdom of Kition provide the first clear evidence that the Mycenaean Greeks arrived in Larnaka in the 13th century BC, and the Phoenicians in the 9th. Achaeans redesigned and rebuilt the city around the end of the 13th century, fortifying it with cyclopean walls made of giant blocks of stone, whilst the Phoenicians settled in the area in the 9th century. In 312BC, Kition was occupied and then destroyed by Ptolemy 1st Soter, though habitation continued into Christian times. Kition was well known for its harbour during antiquity, from which many agricultural products were exported to the eastern Mediterranean, Egypt and the Aegean. Moreover, its strategic position rendered it an exceptional naval base. Of particular interest at the ancient port are the drawings of ships etched into the walls of buildings.</p>
+            <h6>Prices Range: ££</h6>
           </div>
 
           <hr class="my-4">

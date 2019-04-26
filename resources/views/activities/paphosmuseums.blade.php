@@ -66,10 +66,10 @@
           <div class="post">
             <h2> #1 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/motormuseum.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h4>Cyprus Historic & Classic Motor Museum</h4></a>
-            <p>Located in Limassol in a spacious 3000 square meters, you will admire Classic, Historic and Collectible Cars. The "Cyprus Historic and Classic Motor Museum" is a remarkable home for classic cars with highlights of their historical and emotional value. Visitors can admire the museum's eclectic collection of cars covering the period of the last century. The museum highlights the cultural importance of the development and growth of the automobile industry. The oldest car in the collection at the moment is a Ford "T" roadster from 1912, which currently has 102 years of life on the road. The newest vehicle is a collectible piece from 2004. Each visitor can enjoy a different yet memorable experience learning the progress of the vehicles through the passage of time. The founding of the museum is due to the vision of veteran Rally Racing champion of International and Cypriot rally competitions, Mr. Dimi Mavropoulos.</p>
-            <h6>Prices Range: £10</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/stenimuseum.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h3>The Steni Museum of Village Life</h3></a>
+            <p>The Steni Museum of Village Life is a tribute to all the villagers who lived in Steni during the challenging years, from its founding to the end of the Second World War (1800 -1945). Its exhibits include scenes of loom weaving and ploughing, and presentations of tools and equipment, handicrafts, kitchenware, pots and jars and traditional clothing.</p>
+            <h6>Prices Range: £</h6>
           </div>
 
           <hr class="my-4">
@@ -77,10 +77,10 @@
           <div class="post">
             <h2> #2 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/limassolcastle.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Limassol Castle</h2></a>
-            <p>Limassol castle dates back to the Medieval Period and is located at the centre of the historical Limassol vert close to the Limassol Harbour. The castle was built during the Ottoman rule in the island but archaeological evidence suggest that before its current form there were earlier architectural faces, older and larger. In addition, archaeological studies and investigations on the interior space of the castle revealed that it was built over an Early Christian basilica (4th-7th A.D) and a Middle Byzantine monument (10th-11th century A.D.). Other archaeological findings suggest the existence of an important church possibly the city's first cathedral. The first phase of the castle was built in 1193 by Guy de Lusignian.</p>
-            <h6>Prices Range: £16</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/ethnographicmuseum.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h3>Paphos Ethnographic Museum</h3></a>
+            <p>This is a vision which became a reality in the summer of 1958 when the founder and archaeologist George S Eliades opened the doors of his museum to the public. The accumulated works on display amounted to a collection which had been gathered over a period of twenty years and during that time George Eliades started to form his dream to create a home in order to house the creations of folk artists.</p>
+            <h6>Prices Range: £</h6>
           </div>
 
           <hr class="my-4">
@@ -88,10 +88,10 @@
           <div class="post">
             <h2> #3 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/carobmill.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Carob Mill Museum</h2></a>
-            <p>Carob Mill Museum is located in Limassol City Centre near the Medieval Museum. The Carob Mill was built at the beginning of the 20th century, a time when carobs were one of the main products that Cyprus used to export. Carobs had many uses, including the manufacture of film, medicine, chocolates and other sweets. The machinery used in the mill for the process of the carobs is exhibited in a renovated building which combines tradition with modern.</p>
-            <h6>Prices Range: £15</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/agiosgeorgiosmuseum.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Agios Georgios Museum</h2></a>
+            <p>The archaeological site of Agios Georgios at the Pafos (Paphos) village of Pegeia is a famous place of pilgrimage for the region. Excavations that began in the 1950’s uncovered significant evidence of an Early Christian settlement. The excavations unearthed three Early Christian Basilicas and a bath from the 6th century, whilst later excavations (in the nineties) revealed an extensive unwalled settlement that occupied the neck and the south slope of the cape in the Roman and early Christian periods. The settlement flourished under Justinian I (527 - 565 AD), and its advantageous position suggests that it was probably a port of call for ships transporting grain from Egypt to Constantinople.</p>
+            <h6>Prices Range: £</h6>
           </div>
 
           <hr class="my-4">
@@ -99,10 +99,10 @@
           <div class="post">
             <h2> #4 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/limassolarchaeologicalmuseum.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h3>Limassol Archaeological Museum</h3></a>
-            <p>The Lemesos (Limassol) District Archaeological Museum houses a rich and notable collection of antiquities from the Neolithic age to the Roman period, originating from excavations at various archaeological sites in the Limassol region. The exhibits are housed in three rooms and are divided into three main categories. The first room contains pottery from different historical periods; the middle room exhibits coins, jewellery, lamps and a variety of copper tools and objects, whilst the third presents sculptures, tombstones, capitals, inscriptions and other marble and limestone artefacts. A variety of objects related to the cult of Aphrodite - such as fertility and other votive offerings and female terracotta figurines – are also included in the exhibits.</p>
-            <h6>Prices Range: £15</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/neldiart.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Neldi Art Gallery</h2></a>
+            <p>Handmade wood creations and jewellery ideal for customization and great gifts made in Cyprus.</p>
+            <h6>Prices Range: £</h6>
           </div>
 
           <hr class="my-4">
@@ -110,10 +110,10 @@
           <div class="post">
             <h2> #5 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/ploumistopsomi.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Ploumisto Psomi Museum</h2></a>
-            <p>Bread Museum is located very near the city centre, and impresses the technique, artistry and imagination in designs and shapes. How plain bread can become a work of art. Familiarise yourself with one of the cornerstones of Cyprus culture and tradition. Experience the role and importance of bread in the local society. Hundreds of examples of ritual, festive and ornamental breads.</p>
-            <h6>Prices Range: £15</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/geroskipoumuseum.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h4>Ethnographic Museum of Geroskipou</h4></a>
+            <p>The Local Ethnographic Museum of Geroskipou is housed in a traditional 18th century building known as the ‘House of Hadjismith’, and was founded in 1978.The museum’s large and diverse collection of exhibits originate from all over Cyprus and represent the daily life, crafts, activities and different expressions of Cypriot folk art during the 19th and early 20th centuries. The rural crafts include pottery, scarf making, rug weaving and rope making, as well as the manufacture of silk, for which the island was famous for.</p>
+            <h6>Prices Range: £</h6>
           </div>
 
           <hr class="my-4">
@@ -121,10 +121,10 @@
           <div class="post">
             <h2> #6 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/katiesabry.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Katie Sabry Studio</h2></a>
-            <p>I'm a local artist, having lived and worked in Limassol since 1987. My home gallery and mosaic workshop, featuring my original paintings in watercolours, pastels and oils, as well as cards and mosaics for sale. I have many small paintings and mosaics which make lovely gifts. Most of my watercolours are painted on site in Cyprus. My bigger works are painted here at my studio. The building is a 100-year-old traditional courtyard house, fully renovated with a charming courtyard garden. I offer short- or full-day mosaic workshops. Painting and drawing classes also available. Accommodation for visiting artists by request. If you'd like to visit outside the advertised opening hours, please feel free to contact me, I love showing people around, sharing my creations and beautiful garden!</p>
-            <h6>Prices Range: £10</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/aliathongallery.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Aliathon Gallery</h2></a>
+            <p>We present to you our beautiful Gallery full of inspirational Art, Original Giftware, Bath & Body and Candles. Prepare to be excited! U: by design. Original artwork inspired by the sea, relaxing and refreshing! bespoke hearts and uplifting words, each piece designed with U in mind. Commissions taken. Give de hooch your thoughts and watch her create your own bespoke gift! Commissions taken! Lou-P-Lou Bath Body & Candles... A lovely range of handmade products using Cyprus olive oil and organic ingredients. Hand creams, body scrubs, soya candles, beautiful olive oil soaps and lots more! Also, a stunning range of crystals - guardian angels, key chains and even pet charms!</p>
+            <h6>Prices Range: £</h6>
           </div>
 
           <hr class="my-4">
@@ -132,10 +132,12 @@
           <div class="post">
             <h2> #7 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/watermuseum.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Water Museum</h2></a>
-            <p>The building of the Water Museum consists of the old Lemesos (Limassol) Water Pumping Station (the ‘Water Machine’) that was built in 1925 and is located next to the offices of Limassol Water Board. Included in the Protected Historic Buildings List of the Cyprus Department of Town Planning and Housing, the Water Pumping Station was used to pump significant quantities of water from the Garyllis Delta aquifer. The water was then transferred through water pipes to the Limassol Water Tower from where it was distributed to the town of Limassol. It was a pioneering water distribution system not only for Cyprus, but also for the whole geographical region around the island.</p>
-            <h6>Prices Range: £18</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/byzantinemuseum.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Byzantine Museum</h2></a>
+            <p>
+              Paphos Byzantine Museum presents an attractive collection of objects from the Byzantine period, including Byzantine icons from the 7th to 18th centuries, including the oldest icon found yet in Cyprus dating to the 7th or 8th century. The extremely interesting Byzantine Museum of Pafos lies within the precincts of the Pafos Bishopric. It houses a great number of Byzantine icons, ranging mainly from the 12th to the 19th century, collected from churches and monasteries of the district of Pafos. These icons express the religious faith of the Pafians during the Byzantine era and inform present day visitors of the high artistic quality of those times. The oldest icon, that of the Virgin Eleousa, from the church of the Monastery of Agios Savvas tis Karonos, dates to about 1200 A.D. and is an exquisite example of Byzantine art.
+            </p>
+            <h6>Prices Range: £</h6>
           </div>
 
           <hr class="my-4">
@@ -143,10 +145,10 @@
           <div class="post">
             <h2> #8 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/limassolartgallery.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h3>Limassol Municipal Art Gallery</h3></a>
-            <p>The Limassol Public Gallery presents one of the largest and richest art collections of Cypriot Modern Art. It includes significant works of art concerning the history of art in our country, such as Adamantios Korais, Michael Kassialos, Tilemahos Kanthos, Christophoros Savva, Victor Ioannides, Loukia Nikolaidou, Takis Fragoudes, Vasilis Vrionides, Nikos Nikolaides, John Corpige, Andrea Ladommatos, Stas Paraschos, Stella Michaelidou, Antros Efstathiou, Spiros Dimitriades and others. These works are displayed in the old building, whereas the new ground halls of the Gallery host representative samples of new Cypriot artists. They cover both the old naturalistic trends and the modern views on painting. On the first-floor halls there is the Marios Vasiliades collection and in the basement the National Liberation Revolution tribute collection, which belongs to the Historical Remembrance Council.</p>
-            <h6>Prices Range: £10</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/technopolis.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h3>Technopolis 20 Cultural Centre</h3></a>
+            <p>A cultural centre that organises artistic events such as concerts, theatre and dance performances, exhibitions, screenings and much more. Additionally, a coffee shop - bar operates in the venue with a beautiful garden in the city centre.</p>
+            <h6>Prices Range: £</h6>
           </div>
 
           <hr class="my-4">
@@ -154,10 +156,10 @@
           <div class="post">
             <h2> #9 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/nocturnegallery.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Nocturne Gallery</h2></a>
-            <p>This is the physical gallery and working studio of Neo-Gothic artist Paul Timms. It is the only gallery in this part of the world that specializes in Neo-Gothic, Fantastic Art, and similar works; representing exclusively some of the finest creative talents in contemporary art, including Alex Welch (metalwork), Ivan Dencic (wirework) and Maria Neophytou (collage).</p>
-            <h6>Prices Range: £12</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/paphosmuseum.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Paphos District Museum</h2></a>
+            <p>The Pafos District Archaeological Museum houses a collection of finds from the Pafos (Paphos) region dating from the Neolithic Age to 1700 AD. The exhibits are set across five rooms and originate mainly from Palaipafos (Kouklia), Nea Pafos (present¬ day Pafos) and Marion-Arsinoe (Polis). They are supplemented by finds from Pegeia, Kissonerga, Lempa, Pano Arodes, Salamiou, Akourdalia, Pomos, Kidasi and Geroskipou.</p>
+            <h6>Prices Range: £</h6>
           </div>
 
           <hr class="my-4">
@@ -165,10 +167,12 @@
           <div class="post">
             <h2> #10 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/limassoltheatermuseum.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Cyprus Theater Museum</h2></a>
-            <p>The Cyprus Theatre Museum is located in the Panos Solomonides Cultural Centre and opened its doors in 2012. The museum is divided into thematic sections that consist of: ‘The History’ (a journey through the major stages of theatre activity on the island); ‘The Contributors’ (exhibits related to the basic stages of theatre production), and ‘The Performance’ (showcasing costumes from significant and emblematic performances of the island’s theatre history). Printed material, costumes, scale models, props, set and costume designs, as well as photographs and posters constitute the exhibits of the permanent collection of the museum, giving visitors the opportunity to take a virtual tour in the island’s history of theatre.</p>
-            <h6>Prices Range: £20</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/artandshock.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Art & Shock Gallery</h2></a>
+            <p>
+              The Art & Shock Gallery opened in Paphos in the summer of 2017. The Art & Shock Gallery is a timeless place, place that is beyond politics and nationalities. On the pictures that are collected in the gallery you can’t see the country where they were created, and it was done on purpose. The pictures come from Kamchatka to France. Here in the Art & Shock Gallery one can see the diverse and various environment that created. Here you could see everything: Georgian feast, Baltic sea-banks and languishing European beauties. And this very contrast and diversity give the gallery its colour and highlight its individuality as well.
+            </p>
+            <h6>Prices Range: £</h6>
           </div>
 
           <hr class="my-4">

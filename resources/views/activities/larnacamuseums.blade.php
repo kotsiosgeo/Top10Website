@@ -66,9 +66,9 @@
           <div class="post">
             <h2> #1 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/motormuseum.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h4>Cyprus Historic & Classic Motor Museum</h4></a>
-            <p>Located in Limassol in a spacious 3000 square meters, you will admire Classic, Historic and Collectible Cars. The "Cyprus Historic and Classic Motor Museum" is a remarkable home for classic cars with highlights of their historical and emotional value. Visitors can admire the museum's eclectic collection of cars covering the period of the last century. The museum highlights the cultural importance of the development and growth of the automobile industry. The oldest car in the collection at the moment is a Ford "T" roadster from 1912, which currently has 102 years of life on the road. The newest vehicle is a collectible piece from 2004. Each visitor can enjoy a different yet memorable experience learning the progress of the vehicles through the passage of time. The founding of the museum is due to the vision of veteran Rally Racing champion of International and Cypriot rally competitions, Mr. Dimi Mavropoulos.</p>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/larnaca/larnacacastle.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Larnaca Medieval Castle</h2></a>
+            <p>Located at the end of the Foinikoudes promenade, the Medieval Castle of Larnaka (also referred to as Larnaka Fort) is believed to have been originally built during the Middle Ages, and took its present form during Ottoman rule, although there is some contestation regarding its origins. Chronographer Florius Boustronius dates it to the years of Lusignan King James I (1382-1398AD), who built it to protect the harbour of the town. During the same time, the Genovese occupied Famagusta and the Lusignans had to develop another major port for the needs of their kingdom. 18th century sources insist that the castle was built by the Turks in 1625AD, even though a Turkish garrison was stationed there since 1570AD. Other references by travellers confirm that the castle was constructed before 1625.</p>
             <h6>Prices Range: £10</h6>
           </div>
 
@@ -77,10 +77,10 @@
           <div class="post">
             <h2> #2 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/limassolcastle.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Limassol Castle</h2></a>
-            <p>Limassol castle dates back to the Medieval Period and is located at the centre of the historical Limassol vert close to the Limassol Harbour. The castle was built during the Ottoman rule in the island but archaeological evidence suggest that before its current form there were earlier architectural faces, older and larger. In addition, archaeological studies and investigations on the interior space of the castle revealed that it was built over an Early Christian basilica (4th-7th A.D) and a Middle Byzantine monument (10th-11th century A.D.). Other archaeological findings suggest the existence of an important church possibly the city's first cathedral. The first phase of the castle was built in 1193 by Guy de Lusignian.</p>
-            <h6>Prices Range: £16</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/larnaca/gift.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Every Day is a Gift</h2></a>
+            <p>Every day is a gift is a family business shop in the heart of Larnaka 20 meters from Saint Lazaros church. You can find excellent prices for handmade Greek, Cyprus jewellery from 5 euro to max 35 euro (Silver unique designs). The owners are friendly always with a smile on the face. Visit is a must!</p>
+            <h6>Prices Range: £5</h6>
           </div>
 
           <hr class="my-4">
@@ -88,10 +88,10 @@
           <div class="post">
             <h2> #3 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/carobmill.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Carob Mill Museum</h2></a>
-            <p>Carob Mill Museum is located in Limassol City Centre near the Medieval Museum. The Carob Mill was built at the beginning of the 20th century, a time when carobs were one of the main products that Cyprus used to export. Carobs had many uses, including the manufacture of film, medicine, chocolates and other sweets. The machinery used in the mill for the process of the carobs is exhibited in a renovated building which combines tradition with modern.</p>
-            <h6>Prices Range: £15</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/larnaca/pieridesmuseum.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Pierides Museum</h2></a>
+            <p>The Archaeological Collection of the Pierides Museum - Bank of Cyprus Cultural Foundation is considered as one of the most important collections of Cyprus. The collection was initiated by the enlightened Demetrios Pierides in the 19th century and has been systematically enriched. The Pierides Museum is conveniently located in the commercial centre of the city of Larnaka, parallel to the sea front. It can be characterized as one of the most important private museums of Cyprus, since the collection contains a significant and characteristic presentation of the civilization of Cyprus through the centuries.</p>
+            <h6>Prices Range: £5</h6>
           </div>
 
           <hr class="my-4">
@@ -99,10 +99,10 @@
           <div class="post">
             <h2> #4 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/limassolarchaeologicalmuseum.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h3>Limassol Archaeological Museum</h3></a>
-            <p>The Lemesos (Limassol) District Archaeological Museum houses a rich and notable collection of antiquities from the Neolithic age to the Roman period, originating from excavations at various archaeological sites in the Limassol region. The exhibits are housed in three rooms and are divided into three main categories. The first room contains pottery from different historical periods; the middle room exhibits coins, jewellery, lamps and a variety of copper tools and objects, whilst the third presents sculptures, tombstones, capitals, inscriptions and other marble and limestone artefacts. A variety of objects related to the cult of Aphrodite - such as fertility and other votive offerings and female terracotta figurines – are also included in the exhibits.</p>
-            <h6>Prices Range: £15</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/larnaca/kyriazismuseum.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h3>Kyriazis Medical Museum</h3></a>
+            <p>This is one of the few museums in the world where the visitor can touch and explore old medical instruments without restrictions. The visitor can experience how medicine was practiced in the old times, and also explore magic, incantations, medical words and many other aspects of medicine. We also have a 'Health Hangout' where we serve health drinks and herbal teas in a relaxing and interesting atmosphere.</p>
+            <h6>Prices Range: £10</h6>
           </div>
 
           <hr class="my-4">
@@ -110,10 +110,10 @@
           <div class="post">
             <h2> #5 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/ploumistopsomi.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Ploumisto Psomi Museum</h2></a>
-            <p>Bread Museum is located very near the city centre, and impresses the technique, artistry and imagination in designs and shapes. How plain bread can become a work of art. Familiarise yourself with one of the cornerstones of Cyprus culture and tradition. Experience the role and importance of bread in the local society. Hundreds of examples of ritual, festive and ornamental breads.</p>
-            <h6>Prices Range: £15</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/larnaca/larnacaartgallery.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Larnaca Municipal Art Gallery</h2></a>
+            <p>Housed in one of the old 1881 Colonial buildings on Europe Square (at the start of the Foinikoudes promenade), the Municipal Art Gallery regularly hosts thematic exhibitions featuring a wide range of artists from the island, as well as abroad. Exhibitions are displayed across four interconnecting halls and often include sculptures and modern constructions alongside paintings. The gallery's permanent collections of paintings consist of pieces by Cypriot and other artists, representative of contemporary artistic talent on the island.</p>
+            <h6>Prices Range: Free</h6>
           </div>
 
           <hr class="my-4">
@@ -121,10 +121,10 @@
           <div class="post">
             <h2> #6 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/katiesabry.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Katie Sabry Studio</h2></a>
-            <p>I'm a local artist, having lived and worked in Limassol since 1987. My home gallery and mosaic workshop, featuring my original paintings in watercolours, pastels and oils, as well as cards and mosaics for sale. I have many small paintings and mosaics which make lovely gifts. Most of my watercolours are painted on site in Cyprus. My bigger works are painted here at my studio. The building is a 100-year-old traditional courtyard house, fully renovated with a charming courtyard garden. I offer short- or full-day mosaic workshops. Painting and drawing classes also available. Accommodation for visiting artists by request. If you'd like to visit outside the advertised opening hours, please feel free to contact me, I love showing people around, sharing my creations and beautiful garden!</p>
-            <h6>Prices Range: £10</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/larnaca/kallinikeio.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h4>Kallinikeio Municipal Museum Athienou</h4></a>
+            <p>The Kallinikeio Municipal Museum of Athienou is housed in the Kallinikeio Municipal Hall and exhibits collections that showcase aspects of the history of the area from the Late Bronze Age (1600-1050 BC) until today. The Museum consists of the Archaeological Collection, the Collection of Ecclesiastical Art and the Ethnographic Collection. The Collection of Ecclesiastical Art includes priceless icons painted by the monk Kallinikos Stavrovouniotis and other icons from his personal collection. The monk was an excellent icon painter and a great benefactor to Athienou, and thus the museum is named in his honour. In the Icon Painting and Mosaic Workshop, icons and mosaics by the brothers George and Alkis Kepola are on display.</p>
+            <h6>Prices Range: £2</h6>
           </div>
 
           <hr class="my-4">
@@ -132,10 +132,10 @@
           <div class="post">
             <h2> #7 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/watermuseum.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Water Museum</h2></a>
-            <p>The building of the Water Museum consists of the old Lemesos (Limassol) Water Pumping Station (the ‘Water Machine’) that was built in 1925 and is located next to the offices of Limassol Water Board. Included in the Protected Historic Buildings List of the Cyprus Department of Town Planning and Housing, the Water Pumping Station was used to pump significant quantities of water from the Garyllis Delta aquifer. The water was then transferred through water pipes to the Limassol Water Tower from where it was distributed to the town of Limassol. It was a pioneering water distribution system not only for Cyprus, but also for the whole geographical region around the island.</p>
-            <h6>Prices Range: £18</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/larnaca/larnacamuseum.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h4>Larnaka District Archaeological Museum</h4></a>
+            <p>Larnaka District Archaeological Museum houses a large collection of archaeological finds from the whole district of Larnaka, including the ancient city-kingdom of Kition, and the main Neolithic settlements of Choirokitia and Tenta - Kalavasos. Exhibits include artefacts from the Neolithic period, the Copper Era and the Archaic, Classical, Hellenistic and Roman periods. Faience (tin-glazed pottery), ivory and alabaster pieces showcase Cyprus’ commercial and international ties with different countries during antiquity. Aside from the large collection of local exhibits, the museum also displays some unique items of Egyptian, Mycenaean, Phoenician, Assyrian and Persian origin that were found in the region of Larnaka but may have been imported from the other great civilizations of antiquity close to the island.</p>
+            <h6>Prices Range: £3</h6>
           </div>
 
           <hr class="my-4">
@@ -143,10 +143,10 @@
           <div class="post">
             <h2> #8 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/limassolartgallery.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h3>Limassol Municipal Art Gallery</h3></a>
-            <p>The Limassol Public Gallery presents one of the largest and richest art collections of Cypriot Modern Art. It includes significant works of art concerning the history of art in our country, such as Adamantios Korais, Michael Kassialos, Tilemahos Kanthos, Christophoros Savva, Victor Ioannides, Loukia Nikolaidou, Takis Fragoudes, Vasilis Vrionides, Nikos Nikolaides, John Corpige, Andrea Ladommatos, Stas Paraschos, Stella Michaelidou, Antros Efstathiou, Spiros Dimitriades and others. These works are displayed in the old building, whereas the new ground halls of the Gallery host representative samples of new Cypriot artists. They cover both the old naturalistic trends and the modern views on painting. On the first-floor halls there is the Marios Vasiliades collection and in the basement the National Liberation Revolution tribute collection, which belongs to the Historical Remembrance Council.</p>
-            <h6>Prices Range: £10</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/larnaca/platini.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>The House of Platini</h2></a>
+            <p>The museum is dedicated to the French former soccer great and former UEFA president Michel Platini. A huge collection of sporting exhibits: 40. 669 items. Two entries in Guinness World Records. Michel Platini has visited the museum twice. 182 items signed by him. Centrepiece: the official UEFA suit Platini wore as president (gift by him). The museum doubles as a kebab tavern in the evening.</p>
+            <h6>Prices Range: £5</h6>
           </div>
 
           <hr class="my-4">
@@ -154,10 +154,10 @@
           <div class="post">
             <h2> #9 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/nocturnegallery.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Nocturne Gallery</h2></a>
-            <p>This is the physical gallery and working studio of Neo-Gothic artist Paul Timms. It is the only gallery in this part of the world that specializes in Neo-Gothic, Fantastic Art, and similar works; representing exclusively some of the finest creative talents in contemporary art, including Alex Welch (metalwork), Ivan Dencic (wirework) and Maria Neophytou (collage).</p>
-            <h6>Prices Range: £12</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/larnaca/municipalmuseum.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h4>Municipal Museum of Natural History</h4></a>
+            <p>Located within the grounds of the Municipal Gardens and its park, Larnaka’s quaint Municipal Museum of Natural History displays a number of thematic collections, including local reptiles, insects, birds, animals, marine life, fossils and rock formations. The marine life collection is comprised of international and local shells, corals, sponges and sea creatures, whilst a ‘traditional Cypriot yard’ includes the Cyprus donkey. Another notable collection is that of the island’s insects and endemic plants.</p>
+            <h6>Prices Range: £1</h6>
           </div>
 
           <hr class="my-4">
@@ -165,10 +165,10 @@
           <div class="post">
             <h2> #10 </h2>
             <hr>
-            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/limassoltheatermuseum.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Cyprus Theater Museum</h2></a>
-            <p>The Cyprus Theatre Museum is located in the Panos Solomonides Cultural Centre and opened its doors in 2012. The museum is divided into thematic sections that consist of: ‘The History’ (a journey through the major stages of theatre activity on the island); ‘The Contributors’ (exhibits related to the basic stages of theatre production), and ‘The Performance’ (showcasing costumes from significant and emblematic performances of the island’s theatre history). Printed material, costumes, scale models, props, set and costume designs, as well as photographs and posters constitute the exhibits of the permanent collection of the museum, giving visitors the opportunity to take a virtual tour in the island’s history of theatre.</p>
-            <h6>Prices Range: £20</h6>
+            <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/larnaca/saltandpepper.jpg" width="250" height="150" align="left" style="margin-right:10px">
+            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>The Salt & Pepper Museum</h2></a>
+            <p>The Salt and Pepper Museum of Larnaka is the latest museum of its kind to open following the success of the flagship museum in Israel, which exhibits the largest collection of salt and pepper shakers in the world, with over 37,000 unique shakers, which all come with their own story. The Larnaka museum exhibits over 20,000 different shakers, and also has a cafe. The exhibition is from a private collection with all proceeds donated to carefully selected philanthropic social causes. </p>
+            <h6>Prices Range: £5</h6>
           </div>
 
           <hr class="my-4">
