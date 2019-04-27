@@ -21,9 +21,13 @@ Route::get('/home', 'HomeController@index')->name('home');
 
 Route::get('profile', 'UserController@profile');
 
+Route::resource('/destinations', 'DestinationController');
+
 Route::get('suggest', 'UserController@show_suggest');
 
 Route::post('profile', 'UserController@update_avatar');
+
+Route::get('details', 'UserController@show_details');
 
 Route::get('/cities/nicosia', 'CityController@show_nicosia');
 

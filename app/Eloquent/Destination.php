@@ -4,10 +4,10 @@ namespace App\Eloquent;
 
 use Illuminate\Database\Eloquent\Model;
 
-class City extends Model
+class Destination extends Model
 {
     public $timestamps = true;
-    protected $table = 'cities';
+    protected $table = 'destinations';
     protected $guarded = ['id'];
 
 }

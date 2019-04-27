@@ -33,6 +33,11 @@ class UserController extends Controller
   {
     return view('/suggest');
   }
+
+  public function show_details()
+  {
+    return view('/details');
+  }
 }
 
 ?>

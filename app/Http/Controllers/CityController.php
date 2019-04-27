@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Validator;
-use App\Eloquent\Movie;
+use App\Eloquent\City;
 use App\Http\Requests;
 use Illuminate\Support\Facades\Redirect;
 use App\Http\Controllers\Controller;

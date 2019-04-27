@@ -50,7 +50,6 @@
 
       </div>
     </nav>
-
     <div class="container">
       <div class="row">
         <div class="col-md-12">
@@ -67,7 +66,7 @@
             <h2> #1 </h2>
             <hr>
             <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/larnaca/larnacacastle.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Larnaca Medieval Castle</h2></a>
+            <a class="btn btn-link" href="{{ url('/details') }}" id="label1"><h2>Larnaca Medieval Castle</h2></a>
             <p>Located at the end of the Foinikoudes promenade, the Medieval Castle of Larnaka (also referred to as Larnaka Fort) is believed to have been originally built during the Middle Ages, and took its present form during Ottoman rule, although there is some contestation regarding its origins. Chronographer Florius Boustronius dates it to the years of Lusignan King James I (1382-1398AD), who built it to protect the harbour of the town. During the same time, the Genovese occupied Famagusta and the Lusignans had to develop another major port for the needs of their kingdom. 18th century sources insist that the castle was built by the Turks in 1625AD, even though a Turkish garrison was stationed there since 1570AD. Other references by travellers confirm that the castle was constructed before 1625.</p>
             <h6>Prices Range: £10</h6>
           </div>

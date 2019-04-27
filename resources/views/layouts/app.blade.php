@@ -66,6 +66,7 @@
                                 <ul class="dropdown-menu" role="menu">
                                     <li>
                                       <a href="{{ url('/home') }}">Home</a>
+                                      <a href="{{ url('/destinations/create') }}">Add Destination</a>
                                       <a href="{{ url('/profile') }}">User Profile</a>
                                         <a href="{{ url('/logout') }}"
                                             onclick="event.preventDefault();
