@@ -23,7 +23,7 @@ class DestinationController extends Controller
      public function index()
     {
         $destinations = Destination::all();
-        return View::make('cities.index')
+        return View::make('destinations.index')
           ->with('destinations', $destinations);
     }
 
@@ -36,7 +36,7 @@ class DestinationController extends Controller
     {
       $destinations = Destination::all();
       // load the create form (app/views/teams/create.blade.php)
-      return View::make('cities.create')
+      return View::make('destinations.create')
       ->with('destinations', $destinations);
     }
 
@@ -81,7 +81,7 @@ class DestinationController extends Controller
     public function show($id)
     {
     // get the destination
-    $destination = destination::find($id);
+    $destination = Destination::find($id);
     // show the view and pass the destination to it
     return View::make('destinations.show')
       ->with('destination', $destination);

@@ -32,7 +32,7 @@
               <td>{{ $value->categories }}</td>
               <td>
 
-              <a class="btn btn-small btn-success" href="{{ URL::to('/details' . $value->id) }}">Show Destination</a>
+              <a class="btn btn-small btn-success" href="{{ URL::to('destinations/' . $value->id) }}">Show Destination</a>
               {!! Form::open(array('url' => 'destinations/' . $value->id, 'class' => 'pull-right')) !!}
               {!! Form::hidden('_method', 'DELETE') !!}
               {!! Form::submit('Delete Destination', array('class' => 'btn btn-warning')) !!}

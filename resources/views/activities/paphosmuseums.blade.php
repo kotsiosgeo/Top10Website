@@ -67,7 +67,7 @@
             <h2> #1 </h2>
             <hr>
             <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/stenimuseum.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h3>The Steni Museum of Village Life</h3></a>
+            <a class="btn btn-link" href="{{ url('destinations/134') }}"><h3>The Steni Museum of Village Life</h3></a>
             <p>The Steni Museum of Village Life is a tribute to all the villagers who lived in Steni during the challenging years, from its founding to the end of the Second World War (1800 -1945). Its exhibits include scenes of loom weaving and ploughing, and presentations of tools and equipment, handicrafts, kitchenware, pots and jars and traditional clothing.</p>
             <h6>Prices Range: £</h6>
           </div>
@@ -78,7 +78,7 @@
             <h2> #2 </h2>
             <hr>
             <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/ethnographicmuseum.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h3>Paphos Ethnographic Museum</h3></a>
+            <a class="btn btn-link" href="{{ url('destinations/135') }}"><h3>Paphos Ethnographic Museum</h3></a>
             <p>This is a vision which became a reality in the summer of 1958 when the founder and archaeologist George S Eliades opened the doors of his museum to the public. The accumulated works on display amounted to a collection which had been gathered over a period of twenty years and during that time George Eliades started to form his dream to create a home in order to house the creations of folk artists.</p>
             <h6>Prices Range: £</h6>
           </div>
@@ -89,7 +89,7 @@
             <h2> #3 </h2>
             <hr>
             <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/agiosgeorgiosmuseum.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Agios Georgios Museum</h2></a>
+            <a class="btn btn-link" href="{{ url('destinations/136') }}"><h2>Agios Georgios Museum</h2></a>
             <p>The archaeological site of Agios Georgios at the Pafos (Paphos) village of Pegeia is a famous place of pilgrimage for the region. Excavations that began in the 1950’s uncovered significant evidence of an Early Christian settlement. The excavations unearthed three Early Christian Basilicas and a bath from the 6th century, whilst later excavations (in the nineties) revealed an extensive unwalled settlement that occupied the neck and the south slope of the cape in the Roman and early Christian periods. The settlement flourished under Justinian I (527 - 565 AD), and its advantageous position suggests that it was probably a port of call for ships transporting grain from Egypt to Constantinople.</p>
             <h6>Prices Range: £</h6>
           </div>
@@ -100,7 +100,7 @@
             <h2> #4 </h2>
             <hr>
             <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/neldiart.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Neldi Art Gallery</h2></a>
+            <a class="btn btn-link" href="{{ url('destinations/137') }}"><h2>Neldi Art Gallery</h2></a>
             <p>Handmade wood creations and jewellery ideal for customization and great gifts made in Cyprus.</p>
             <h6>Prices Range: £</h6>
           </div>
@@ -111,7 +111,7 @@
             <h2> #5 </h2>
             <hr>
             <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/geroskipoumuseum.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h4>Ethnographic Museum of Geroskipou</h4></a>
+            <a class="btn btn-link" href="{{ url('destinations/138') }}"><h4>Ethnographic Museum of Geroskipou</h4></a>
             <p>The Local Ethnographic Museum of Geroskipou is housed in a traditional 18th century building known as the ‘House of Hadjismith’, and was founded in 1978.The museum’s large and diverse collection of exhibits originate from all over Cyprus and represent the daily life, crafts, activities and different expressions of Cypriot folk art during the 19th and early 20th centuries. The rural crafts include pottery, scarf making, rug weaving and rope making, as well as the manufacture of silk, for which the island was famous for.</p>
             <h6>Prices Range: £</h6>
           </div>
@@ -122,7 +122,7 @@
             <h2> #6 </h2>
             <hr>
             <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/aliathongallery.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Aliathon Gallery</h2></a>
+            <a class="btn btn-link" href="{{ url('destinations/139') }}"><h2>Aliathon Gallery</h2></a>
             <p>We present to you our beautiful Gallery full of inspirational Art, Original Giftware, Bath & Body and Candles. Prepare to be excited! U: by design. Original artwork inspired by the sea, relaxing and refreshing! bespoke hearts and uplifting words, each piece designed with U in mind. Commissions taken. Give de hooch your thoughts and watch her create your own bespoke gift! Commissions taken! Lou-P-Lou Bath Body & Candles... A lovely range of handmade products using Cyprus olive oil and organic ingredients. Hand creams, body scrubs, soya candles, beautiful olive oil soaps and lots more! Also, a stunning range of crystals - guardian angels, key chains and even pet charms!</p>
             <h6>Prices Range: £</h6>
           </div>
@@ -133,7 +133,7 @@
             <h2> #7 </h2>
             <hr>
             <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/byzantinemuseum.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Byzantine Museum</h2></a>
+            <a class="btn btn-link" href="{{ url('destinations/140') }}"><h2>Byzantine Museum</h2></a>
             <p>
               Paphos Byzantine Museum presents an attractive collection of objects from the Byzantine period, including Byzantine icons from the 7th to 18th centuries, including the oldest icon found yet in Cyprus dating to the 7th or 8th century. The extremely interesting Byzantine Museum of Pafos lies within the precincts of the Pafos Bishopric. It houses a great number of Byzantine icons, ranging mainly from the 12th to the 19th century, collected from churches and monasteries of the district of Pafos. These icons express the religious faith of the Pafians during the Byzantine era and inform present day visitors of the high artistic quality of those times. The oldest icon, that of the Virgin Eleousa, from the church of the Monastery of Agios Savvas tis Karonos, dates to about 1200 A.D. and is an exquisite example of Byzantine art.
             </p>
@@ -146,7 +146,7 @@
             <h2> #8 </h2>
             <hr>
             <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/technopolis.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h3>Technopolis 20 Cultural Centre</h3></a>
+            <a class="btn btn-link" href="{{ url('destinations/141') }}"><h3>Technopolis 20 Cultural Centre</h3></a>
             <p>A cultural centre that organises artistic events such as concerts, theatre and dance performances, exhibitions, screenings and much more. Additionally, a coffee shop - bar operates in the venue with a beautiful garden in the city centre.</p>
             <h6>Prices Range: £</h6>
           </div>
@@ -157,7 +157,7 @@
             <h2> #9 </h2>
             <hr>
             <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/paphosmuseum.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Paphos District Museum</h2></a>
+            <a class="btn btn-link" href="{{ url('destinations/142') }}"><h2>Paphos District Museum</h2></a>
             <p>The Pafos District Archaeological Museum houses a collection of finds from the Pafos (Paphos) region dating from the Neolithic Age to 1700 AD. The exhibits are set across five rooms and originate mainly from Palaipafos (Kouklia), Nea Pafos (present¬ day Pafos) and Marion-Arsinoe (Polis). They are supplemented by finds from Pegeia, Kissonerga, Lempa, Pano Arodes, Salamiou, Akourdalia, Pomos, Kidasi and Geroskipou.</p>
             <h6>Prices Range: £</h6>
           </div>
@@ -168,7 +168,7 @@
             <h2> #10 </h2>
             <hr>
             <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/artandshock.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Art & Shock Gallery</h2></a>
+            <a class="btn btn-link" href="{{ url('destinations/143') }}"><h2>Art & Shock Gallery</h2></a>
             <p>
               The Art & Shock Gallery opened in Paphos in the summer of 2017. The Art & Shock Gallery is a timeless place, place that is beyond politics and nationalities. On the pictures that are collected in the gallery you can’t see the country where they were created, and it was done on purpose. The pictures come from Kamchatka to France. Here in the Art & Shock Gallery one can see the diverse and various environment that created. Here you could see everything: Georgian feast, Baltic sea-banks and languishing European beauties. And this very contrast and diversity give the gallery its colour and highlight its individuality as well.
             </p>

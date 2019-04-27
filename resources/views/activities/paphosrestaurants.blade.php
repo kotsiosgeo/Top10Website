@@ -67,7 +67,7 @@
             <h2> #1 </h2>
             <hr>
             <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/londos.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h3>Londos Perasma Café Restaurant</h3></a>
+            <a class="btn btn-link" href="{{ url('destinations/144') }}"><h3>Londos Perasma Café Restaurant</h3></a>
             <p>Londos perasma situated on B6 at Timi village, just five minutes from Paphos airport. A traditional cypriot family run taverna, with a small outside childrens play area. A very reasonably priced menu consisting of both traditional and non-traditional food, which can be also be made to takeaway. All food is freshly prepared, and any special dietary requests can be catered for with some prior notice. Roast beef Sunday lunches are also served, but prior booking is advised as it is very popular, and tables tend to fill very quickly all day.</p>
             <h6>Prices Range: ££ - £££</h6>
           </div>
@@ -78,7 +78,7 @@
             <h2> #2 </h2>
             <hr>
             <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/namaste.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Namaste Indian Restaurant</h2></a>
+            <a class="btn btn-link" href="{{ url('destinations/145') }}"><h2>Namaste Indian Restaurant</h2></a>
             <p>Authentic Indian Street Food, vegetarian and vegan-friendly. We serve freshly cooked authentic Indian food.</p>
             <h6>Prices Range: ££ - £££</h6>
           </div>
@@ -89,7 +89,7 @@
             <h2> #3 </h2>
             <hr>
             <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/caravellerestaurant.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h5>Caravelle Fish & Mediterranean Restaurant</h5></a>
+            <a class="btn btn-link" href="{{ url('destinations/146') }}"><h5>Caravelle Fish & Mediterranean Restaurant</h5></a>
             <p>Caravelle is open 7 days a week from 10am until late. Serving drinks, snacks, desserts, beverages and exquisite meals with a Mediterranean flare including salads, fish & seafood, pasta, chicken and steak (fillet/rib-eye). We are situated in an area with plenty parking, and the beautiful scenic beach walkway is just beyond the children's playground which is a stone’s throw away. The upstairs bar is perfect for those evening sun-downers too.</p>
             <h6>Prices Range: ££ - £££</h6>
           </div>
@@ -100,7 +100,7 @@
             <h2> #4 </h2>
             <hr>
             <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/notios.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Notios Restaurant</h2></a>
+            <a class="btn btn-link" href="{{ url('destinations/147') }}"><h2>Notios Restaurant</h2></a>
             <p>Experience the purity of Japanese food combined with sensuous Mediterranean flavours at the al fresco Notios. Our Executive Chef loves experimenting but is equally passionate about simple, honest food. The result: exciting, modern cuisine underpinned with culinary integrity. Notios is open for lunch and dinner from April to November (weather-permitting the rest of the year).</p>
             <h6>Prices Range: ££££</h6>
           </div>
@@ -111,7 +111,7 @@
             <h2> #5 </h2>
             <hr>
             <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/bacco.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Ristorante Bacco</h2></a>
+            <a class="btn btn-link" href="{{ url('destinations/148') }}"><h2>Ristorante Bacco</h2></a>
             <p>Ristorante Bacco offers guests a complete dining experience: a delicious meal in a warm and intimate setting. Authentic Italian cuisine – with highlights from Tuscany – is captured in a sumptuous menu that includes homemade pasta dishes, tender meat and fish specialties, and the most popular Italian desserts, all based on original recipes and made from fresh ingredients. Allow us to recommend a matching Italian wine or come to the glass-fronted storage cellar to taste and choose a wine for yourself. Whether you prefer a table indoors or in the sunken courtyard outside, sit back and enjoy the unique gastronomic experience that Bacco offers.</p>
             <h6>Prices Range: ££££</h6>
           </div>
@@ -122,7 +122,7 @@
             <h2> #6 </h2>
             <hr>
             <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/oshin.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>O'Shin Restaurant</h2></a>
+            <a class="btn btn-link" href="{{ url('destinations/149') }}"><h2>O'Shin Restaurant</h2></a>
             <p>Dignified and yet simplistic, O'Shin's intimate space gives guests the opportunity to explore a selection of refined, pan-Asian gastronomic delights. Fawn-coloured oak wood utilised throughout the eatery lends to its elegant setting, which has been further embellished with oriental-styled latticed partitions, and soft, cherry-hued lighting. Whilst hot dishes – a diverse range of starters and mains – are prepared behind the scenes, the variety of sushi, sashimi, and maki is brought to life at the dedicated sushi counter, establishing an exciting dialogue between diner and chef. In completing their Asian journey, guests can anticipate enjoying a smooth cup of Sake, or savouring the aromas of O'Shin's selection of teas.</p>
             <h6>Prices Range: ££££</h6>
           </div>
@@ -133,7 +133,7 @@
             <h2> #7 </h2>
             <hr>
             <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/jayanta.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Jayanta Indian Restaurant</h2></a>
+            <a class="btn btn-link" href="{{ url('destinations/150') }}"><h2>Jayanta Indian Restaurant</h2></a>
             <p>Jayanta Indian Restaurant is located close to the waterfront in Paphos. The restaurant menu includes Indian, Asian and Balinese dishes to suit any taste. If you like spicy ingredients, there is plenty to choose from. If you prefer a more moderate taste, there are many classic dishes like lamb, chicken curry, salads, freshly baked bread and halal options. The wine list includes local and European wines. The restaurant has a colourful interior décor. Some of the tables are located outside. There are high chairs for children.</p>
             <h6>Prices Range: ££ - £££</h6>
           </div>
@@ -144,7 +144,7 @@
             <h2> #8 </h2>
             <hr>
             <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/mediterraneo.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Mediterraneo Restaurant</h2></a>
+            <a class="btn btn-link" href="{{ url('destinations/151') }}"><h2>Mediterraneo Restaurant</h2></a>
             <p>Atmospheric seafront taverna offering local and seasonal specialities inspired by Annabelle’s ‘Food from the Village’ cookbook. Emphasis is placed on unique and homemade produce from the local area and from Cyprus. Fresh flavours and light dishes are designed to be shared with family and friends at the table.</p>
             <h6>Prices Range: ££££</h6>
           </div>
@@ -155,7 +155,7 @@
             <h2> #9 </h2>
             <hr>
             <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/windmill.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Windmill Restaurant</h2></a>
+            <a class="btn btn-link" href="{{ url('destinations/152') }}"><h2>Windmill Restaurant</h2></a>
             <p>The Windmill is a family run restaurant owned from Chris Kathitziotes and his family for more than 30 years. The restaurant offers a large selection of Cypriot and International food. It is also specialised in Meze. Available for wedding receptions and other parties with reasonable prices.</p>
             <h6>Prices Range: ££ - £££</h6>
           </div>
@@ -166,7 +166,7 @@
             <h2> #10 </h2>
             <hr>
             <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/paphos/curryhouse.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Curry House</h2></a>
+            <a class="btn btn-link" href="{{ url('destinations/153') }}"><h2>Curry House</h2></a>
             <p>Once missing from Paphos, The Curry House is an Authentic Indian Restaurant that offers real, home cooked dishes from India.  All dishes are cooked by authentic Indian chefs and our aim is to prepare dishes exactly how we cook them at home. Every plate achieves contains the freshest ingredients prepared daily and cooked to perfectly to give you that elusive, cuisine-defining balance of sweet, salty and sour, even dessert.</p>
             <h6>Prices Range: ££ - £££</h6>
           </div>

@@ -67,7 +67,7 @@
             <h2> #1 </h2>
             <hr>
             <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/artima.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Artima Restaurant</h2></a>
+            <a class="btn btn-link" href="{{ url('destinations/64') }}"><h2>Artima Restaurant</h2></a>
             <p>Artima Bistro, three times awarded for its Mediterranean cuisine, is a most suitable choice for an elegant dining experience and ideal for a business lunch or dinner. The carefully restored and tastefully designed restaurant radiates unique character in a contemporary and elegant environment. The rich menu and professional staff are sure to leave guests with a favourable and flavourful impression. Located at the Lanitis Carobmill Complex next to the Medieval Castle in Limassol ,Artima offers Mediterranean dishes inspired by the Italian cuisine. The creative menu is enhanced with tempting desserts and a wide selection of local and international wines. Visitors can enjoy their food or drinks sitting by the yard of the Medieval Castle.</p>
             <h6>Prices Range: ££££</h6>
           </div>
@@ -78,7 +78,7 @@
             <h2> #2 </h2>
             <hr>
             <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/columbiasteakhouse.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Columbia Steak House</h2></a>
+            <a class="btn btn-link" href="{{ url('destinations/65') }}"><h2>Columbia Steak House</h2></a>
             <p>The Plaza's chic Steak House is a feast for both the stomach and the eyes. Specializing in fresh, prime cuts of superior quality U.S.D.A Black Angus Premium beef, flown in chilled from overseas every week. The restaurant's experienced chefs use a unique method of cooking the perfectly aged steaks. This not only produces what is now acknowledged as the best steak in town, but is certain to please gourmands island-wide. </p>
             <h6>Prices Range: ££££</h6>
           </div>
@@ -89,7 +89,7 @@
             <h2> #3 </h2>
             <hr>
             <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/lamaisonfleurie.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>La Maison Fleurie</h2></a>
+            <a class="btn btn-link" href="{{ url('destinations/66') }}"><h2>La Maison Fleurie</h2></a>
             <p>La Maison Fleurie is established since 1986 and created by great passion for French authentic cuisine. The interior design is based on a rich classic style with very romantic surroundings. During summer time, the restaurant offers you a tremendous garden for relaxing evenings. Ideal for wedding, private parties, baptizing and other private events & anniversaries! The restaurant is awarded in 2017 & 2016 with a Certificate of Excellence for the great reviews earned by guests. </p>
             <h6>Prices Range: ££££</h6>
           </div>
@@ -100,7 +100,7 @@
             <h2> #4 </h2>
             <hr>
             <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/alborgo.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Pizzeria Al Borgo</h2></a>
+            <a class="btn btn-link" href="{{ url('destinations/67') }}"><h2>Pizzeria Al Borgo</h2></a>
             <p>Pizzeria Al Borgo is one of the cosiest and cheapest restaurants in Limassol. The Italian kitchen offers pizzas, spaghetti, ravioli and many more at very reasonable prices offering a good experience to its customers.</p>
             <h6>Prices Range: £</h6>
           </div>
@@ -111,7 +111,7 @@
             <h2> #5 </h2>
             <hr>
             <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/dionysusmansion.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Dionysous Mansion</h2></a>
+            <a class="btn btn-link" href="{{ url('destinations/68') }}"><h2>Dionysous Mansion</h2></a>
             <p>Dionysus Mansion adds the "Gourmet" in the Cypriot / Greek Cuisine. The restaurant offers exceptional local cuisine in reasonable prices. You can taste traditional dishes like souvla, koupepia, kleftiko and many more along with local wine or beer.</p>
             <h6>Prices Range: ££ - £££</h6>
           </div>
@@ -122,7 +122,7 @@
             <h2> #6 </h2>
             <hr>
             <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/zenroom.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Zen Room</h2></a>
+            <a class="btn btn-link" href="{{ url('destinations/69') }}"><h2>Zen Room</h2></a>
             <p>Zen Room Restaurant offers an amazing experience of Asian cuisine with Japanese dishes like sushi, peking duck, hot and sour soup and tappenyaki style chicken teriyaki. The restaurant has many dishes, but they specialise in Sushi, making it the best sushi in Limassol.</p>
             <h6>Prices Range: ££££</h6>
           </div>
@@ -133,7 +133,7 @@
             <h2> #7 </h2>
             <hr>
             <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/seasonsoriental.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Seasons Oriental</h2></a>
+            <a class="btn btn-link" href="{{ url('destinations/70') }}"><h2>Seasons Oriental</h2></a>
             <p>This famous Chinese restaurant has the undeniable accolade of being the best in its class in Cyprus. Chef Kenny Keung and his team provide an unrivalled selection of Cantonese taste sensations. Open for dinner only every night but Tuesday.</p>
             <h6>Prices Range: ££££</h6>
           </div>
@@ -144,7 +144,7 @@
             <h2> #8 </h2>
             <hr>
             <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/tapiatakia.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Ta Piatakia</h2></a>
+            <a class="btn btn-link" href="{{ url('destinations/71') }}"><h2>Ta Piatakia</h2></a>
             <p>Ta Piatakia Restaurant offers a Mediterranean Cuisine experience with local dishes in very good prices and specialises in Cypriot and Greek traditional dishes, so if you want to experience the flavours of the island this is the place to be!</p>
             <h6>Prices Range: ££ - £££</h6>
           </div>
@@ -155,7 +155,7 @@
             <h2> #9 </h2>
             <hr>
             <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/vivaldi.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Vivaldi by Mavrommatis</h2></a>
+            <a class="btn btn-link" href="{{ url('destinations/72') }}"><h2>Vivaldi by Mavrommatis</h2></a>
             <p>Offers the best in fresh, fine Mediterranean cuisine. In conjunction with the renowned Cypriot Chef Andreas Mavrommatis, based in Paris and building on the success of our 10 year relationship. Mavrommatis' recipe for success has always been based on the simplicity of market fresh Mediterranean ingredients. Open for dinner only, also outdoors during the summer months (May to October). Vivaldi by Mavrommatis Restaurant is voted as the Best Hotel Restaurant in Cyprus by the TimeOut Readers for 8 consecutive years.</p>
             <h6>Prices Range: ££££</h6>
           </div>
@@ -166,7 +166,7 @@
             <h2> #10 </h2>
             <hr>
             <img src="http://localhost/dashboard/test/Top10website/public/uploads/destinations/limassol/ousia.jpg" width="250" height="150" align="left" style="margin-right:10px">
-            <a class="btn btn-link" href="{{ url('/profile') }}"><h2>Ousia Lounge Cafe</h2></a>
+            <a class="btn btn-link" href="{{ url('destinations/73') }}"><h2>Ousia Lounge Cafe</h2></a>
             <p>Ousia Lounge Cafe, a stylish Cafe Restaurant that is set in an historic building, with a contemporary finish. Ousia delivers a complete culinary experience of traditional Mediterranean cuisine, with a modern twist. It prides its success with using ingredients & products that are of quality, fresh, natural, seasonal, and handcrafted. The philosphy behind Ousia's creativity is embracing the traditions of Cyprus, whilst also acknowledging the influences from cultures that have graced its shores. Each dish and drink is carefully prepared and presented in an environment that offers total satisfaction.</p>
             <h6>Prices Range: ££ - £££</h6>
           </div>

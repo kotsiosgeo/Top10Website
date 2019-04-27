@@ -51,4 +51,16 @@
       </div>
     </nav>
 
-    <h1>$title</h1>
+    
+
+    <div class="jumbotron text-center">
+        <h2>{{ $destination->destination_name }}</h2>
+        <p>
+            <strong>Destination Name:</strong> {{ $destination->destination_name }}<br>
+            <strong>Destination Details:</strong> {{ $destination->destination_details}}<br>
+            <strong>Price Range:</strong> {{ $destination->price_range }}<br>
+        </p>
+        <head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+</head>
