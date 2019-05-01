@@ -6,6 +6,7 @@ use Illuminate\Support\Facades\Auth;
 use Illuminate\Http\Request;
 use App\Http\Requests;
 use Image;
+use App\Eloquent\Destination;
 
 class UserController extends Controller
 {
@@ -37,6 +38,12 @@ class UserController extends Controller
   public function show_details()
   {
     return view('/details');
+  }
+
+  public function show_review()
+  {
+    $destination = Destination::find($id);
+    return view('/review_form');
   }
 }
 

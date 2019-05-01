@@ -18,4 +18,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 </head>
 
+<div class="item-wrapper">
+  <a href="{{ URL::to('review_form/'. $destination->id)}}" class="btn btn-small btn-primary" data-open="product-review-modal">Write a Review</a>
+
+  <div>
+      <div class="reveal" id="product-review-modal" data-reveal...>
+      </div>
+  </div>
+</div>
+
   @endsection
