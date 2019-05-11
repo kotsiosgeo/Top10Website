@@ -12,11 +12,10 @@ class Destination extends Model
     public $timestamps = true;
     protected $table = 'destinations';
     protected $guarded = ['id'];
-    /*
-    public function reviews()
+
+    public function comments()
     {
-      return $this->hasMany(DestinationReview::class);
+      return $this->hasMany('App\Comment');
     }
-    */
 
 }
