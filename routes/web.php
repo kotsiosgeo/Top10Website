@@ -30,6 +30,7 @@ Route::get('profile', 'UserController@profile');
 Route::post('profile', 'UserController@update_avatar');
 
 Route::get('suggest', 'UserController@show_suggest');
+Route::post('suggest', 'UserController@post_suggest');
 
 Route::get('review_form', 'UserController@show_review');
 

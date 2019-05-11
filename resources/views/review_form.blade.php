@@ -26,7 +26,7 @@
             <input type="text" class="form-control" name="description" id="" placeholder="Input...">
           </div>
 
-          
+
           <input type="hidden" name="destination_id" value="{{$destination->id}}">
 
 

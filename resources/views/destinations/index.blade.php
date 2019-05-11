@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.admin')
 
 @section('content')
 @include('flash::message')
@@ -35,7 +35,7 @@
               <a class="btn btn-small btn-success" href="{{ URL::to('destinations/' . $value->id) }}">Show Destination</a>
               {!! Form::open(array('url' => 'destinations/' . $value->id, 'class' => 'pull-right')) !!}
               {!! Form::hidden('_method', 'DELETE') !!}
-              {!! Form::submit('Delete Destination', array('class' => 'btn btn-warning')) !!}
+              {!! Form::submit('Delete Destination', array('class' => 'btn btn-danger')) !!}
               {!! Form::close() !!}
               </td>
           </tr>

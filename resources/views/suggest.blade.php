@@ -55,7 +55,8 @@
         <div class="col-md-12">
             <h1>Suggest a New Destination:</h1>
             <hr class="my-4">
-            <form>
+            <form action="{{ url('suggest') }}" method="POST">
+              {{ csrf_field() }}
               <div class="form-group">
                 <label name="email">Email:</label>
                 <input id="email" name="email" class="form-control">

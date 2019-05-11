@@ -7,6 +7,9 @@ use Illuminate\Http\Request;
 use App\Http\Requests;
 use Image;
 use App\Eloquent\Destination;
+use Mail;
+use Session;
+use Laracasts\Flash\Flash;
 
 class UserController extends Controller
 {
@@ -35,6 +38,29 @@ class UserController extends Controller
     return view('/suggest');
   }
 
+  public function post_suggest(Request $request)
+  {
+    $this->validate($request, [
+      'email' => 'required|email',
+      'destination' => 'min:2',
+      'details' => 'min:10']);
+
+      $data = array(
+        'email' => $request->email,
+        'destination' => $request->destination,
+        'details' => $request->details
+      );
+
+      Mail::send('emails.suggest', $data, function($message) use ($data){
+        $message->from($data['email']);
+        $message->to('georgiouk95@gmail.com');
+        $message->subject($data['destination']);
+      });
+
+      Flash::message('Your Suggestion was sent successfully!');
+      return redirect()->route('home');
+  }
+
   public function show_details()
   {
     return view('/details');
@@ -42,7 +68,7 @@ class UserController extends Controller
 
   public function show_review()
   {
-    $destination = Destination::find($id);
+    //$destination = Destination::find($id);
     return view('/review_form');
   }
 }
