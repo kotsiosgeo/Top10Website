@@ -19,6 +19,7 @@ class CreateCommentsTable extends Migration
             $table->text('comment');
             $table->boolean('approved');
             $table->integer('destination_id');
+            $table->string('rate');
             $table->timestamps();
         });
 

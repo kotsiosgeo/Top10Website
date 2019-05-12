@@ -52,6 +52,7 @@ class CommentsController extends Controller
         $comment->comment = $request->comment;
         $comment->approved = true;
         $comment->destination()->associate($destination);
+        $comment->rate = $request->rate;
 
         $comment->save();
 
